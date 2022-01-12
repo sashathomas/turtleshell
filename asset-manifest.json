@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/turtleshell/static/css/main.073c9b0a.css",
+    "main.js": "/turtleshell/static/js/main.86cbd1b4.js",
+    "static/js/787.012ae2a3.chunk.js": "/turtleshell/static/js/787.012ae2a3.chunk.js",
+    "static/media/logo.svg": "/turtleshell/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/turtleshell/index.html",
+    "main.073c9b0a.css.map": "/turtleshell/static/css/main.073c9b0a.css.map",
+    "main.86cbd1b4.js.map": "/turtleshell/static/js/main.86cbd1b4.js.map",
+    "787.012ae2a3.chunk.js.map": "/turtleshell/static/js/787.012ae2a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.86cbd1b4.js"
+  ]
+}
