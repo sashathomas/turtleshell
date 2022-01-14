@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/turtleshell/static/css/main.97caeb92.css",
-    "main.js": "/turtleshell/static/js/main.e4d47bbc.js",
+    "main.js": "/turtleshell/static/js/main.425abc3e.js",
     "static/media/space_bg.png": "/turtleshell/static/media/space_bg.d27b31245d52f6e54c91.png",
     "static/media/roboto-mono-all-400-normal.woff": "/turtleshell/static/media/roboto-mono-all-400-normal.8c12dec86f8b17eac652.woff",
     "static/media/roboto-mono-cyrillic-ext-400-normal.woff2": "/turtleshell/static/media/roboto-mono-cyrillic-ext-400-normal.b60acdafdfd55591eddf.woff2",
@@ -12,10 +12,10 @@
     "static/media/roboto-mono-vietnamese-400-normal.woff2": "/turtleshell/static/media/roboto-mono-vietnamese-400-normal.baa5de8fd025f9a570c0.woff2",
     "index.html": "/turtleshell/index.html",
     "main.97caeb92.css.map": "/turtleshell/static/css/main.97caeb92.css.map",
-    "main.e4d47bbc.js.map": "/turtleshell/static/js/main.e4d47bbc.js.map"
+    "main.425abc3e.js.map": "/turtleshell/static/js/main.425abc3e.js.map"
   },
   "entrypoints": [
     "static/css/main.97caeb92.css",
-    "static/js/main.e4d47bbc.js"
+    "static/js/main.425abc3e.js"
   ]
 }
