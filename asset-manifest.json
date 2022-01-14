@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/turtleshell/static/css/main.97caeb92.css",
-    "main.js": "/turtleshell/static/js/main.e4d47bbc.js",
-    "static/media/space_bg.png": "/turtleshell/static/media/space_bg.d27b31245d52f6e54c91.png",
-    "static/media/roboto-mono-all-400-normal.woff": "/turtleshell/static/media/roboto-mono-all-400-normal.8c12dec86f8b17eac652.woff",
-    "static/media/roboto-mono-cyrillic-ext-400-normal.woff2": "/turtleshell/static/media/roboto-mono-cyrillic-ext-400-normal.b60acdafdfd55591eddf.woff2",
-    "static/media/roboto-mono-latin-400-normal.woff2": "/turtleshell/static/media/roboto-mono-latin-400-normal.535bc89d4af715503b01.woff2",
-    "static/media/roboto-mono-latin-ext-400-normal.woff2": "/turtleshell/static/media/roboto-mono-latin-ext-400-normal.52237f44c81dd66b90e3.woff2",
-    "static/media/roboto-mono-cyrillic-400-normal.woff2": "/turtleshell/static/media/roboto-mono-cyrillic-400-normal.3b6a3201563987f5c30c.woff2",
-    "static/media/roboto-mono-greek-400-normal.woff2": "/turtleshell/static/media/roboto-mono-greek-400-normal.6c5721aefd48c14edd31.woff2",
-    "static/media/roboto-mono-vietnamese-400-normal.woff2": "/turtleshell/static/media/roboto-mono-vietnamese-400-normal.baa5de8fd025f9a570c0.woff2",
-    "index.html": "/turtleshell/index.html",
-    "main.97caeb92.css.map": "/turtleshell/static/css/main.97caeb92.css.map",
-    "main.e4d47bbc.js.map": "/turtleshell/static/js/main.e4d47bbc.js.map"
+    "main.css": "/static/css/main.8814e20e.css",
+    "main.js": "/static/js/main.263f0172.js",
+    "static/media/space_bg.png": "/static/media/space_bg.d27b31245d52f6e54c91.png",
+    "static/media/roboto-mono-all-400-normal.woff": "/static/media/roboto-mono-all-400-normal.8c12dec86f8b17eac652.woff",
+    "static/media/roboto-mono-cyrillic-ext-400-normal.woff2": "/static/media/roboto-mono-cyrillic-ext-400-normal.b60acdafdfd55591eddf.woff2",
+    "static/media/roboto-mono-latin-400-normal.woff2": "/static/media/roboto-mono-latin-400-normal.535bc89d4af715503b01.woff2",
+    "static/media/roboto-mono-latin-ext-400-normal.woff2": "/static/media/roboto-mono-latin-ext-400-normal.52237f44c81dd66b90e3.woff2",
+    "static/media/roboto-mono-cyrillic-400-normal.woff2": "/static/media/roboto-mono-cyrillic-400-normal.3b6a3201563987f5c30c.woff2",
+    "static/media/roboto-mono-greek-400-normal.woff2": "/static/media/roboto-mono-greek-400-normal.6c5721aefd48c14edd31.woff2",
+    "static/media/roboto-mono-vietnamese-400-normal.woff2": "/static/media/roboto-mono-vietnamese-400-normal.baa5de8fd025f9a570c0.woff2",
+    "index.html": "/index.html",
+    "main.8814e20e.css.map": "/static/css/main.8814e20e.css.map",
+    "main.263f0172.js.map": "/static/js/main.263f0172.js.map"
   },
   "entrypoints": [
-    "static/css/main.97caeb92.css",
-    "static/js/main.e4d47bbc.js"
+    "static/css/main.8814e20e.css",
+    "static/js/main.263f0172.js"
   ]
 }
