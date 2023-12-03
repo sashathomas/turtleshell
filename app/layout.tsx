@@ -15,9 +15,9 @@ export const metadata: Metadata = {
     siteName: 'turtleshell.me',
     images: [
       {
-        url: 'https://avatars.githubusercontent.com/u/59403796?v=4',
-        width: 800,
-        height: 800,
+        url: 'https://64.media.tumblr.com/tumblr_lzh7c59zmd1qje612o1_r1_400.gif',
+        width: 600,
+        height: 600,
       },
     ],
     locale: 'en_US',
