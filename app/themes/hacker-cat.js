@@ -8,5 +8,5 @@ export default {
   errorOutputColor: '#ffa1a1',
   promptSymbolColor: '#20C90E',
   fontSize: '16px',
-  url: "url('../../public/cat_licensed2.beb2bac004c41f4e9e1b.webp')"
+  url: "url('../../public/cat_licensed2.webp')"
 };
