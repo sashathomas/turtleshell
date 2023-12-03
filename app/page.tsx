@@ -1,7 +1,6 @@
 "use client";
 import React from 'react';
-const javascriptterminal = require('javascript-terminal-turtle');
-
+const JSTerminal = require('javascript-terminal-turtle');
 import hacker from './themes/hacker'
 import hackersmall from './themes/hacker-small'
 import hackercat from './themes/hacker-cat'
@@ -21,17 +20,18 @@ import { SiHackthebox, SiTryhackme } from "react-icons/si";
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 // Create initial emulator statestate
-let customState = javascriptterminal.EmulatorState.create({
+let customState = JSTerminal.EmulatorState.create({
   'fs': fs,
   'commandMapping': customCommandMapping
 });
 
 // create new emulator object
-const emulator = new javascriptterminal.Emulator();
+const emulator = new JSTerminal.Emulator();
+
 
 
 export default function Home() {
-  const [emulatorState, setEmulatorState] = useState(javascriptterminal.EmulatorState.createEmpty());
+  const [emulatorState, setEmulatorState] = useState(JSTerminal.EmulatorState.createEmpty());
   const [command, setCommand] = useState(String);
   const [theme, setTheme] = useState(getTheme());
   const [prompt, setPrompt] = useState(getPrompt());
@@ -52,7 +52,7 @@ export default function Home() {
     };
 
     // rebuild original emulator state
-    customState = javascriptterminal.EmulatorState.create({
+    customState = JSTerminal.EmulatorState.create({
       'fs': fs,
       'commandMapping': customCommandMapping,
     });

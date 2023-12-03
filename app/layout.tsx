@@ -7,7 +7,22 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'turtleshell',
-  description: 'Sasha\'s personal website.'
+  description: 'Sasha\'s personal website.',
+  openGraph: {
+    title: 'turtleshell.me',
+    description: 'Sasha\'s personal website',
+    url: 'https://turtleshell.me',
+    siteName: 'turtleshell.me',
+    images: [
+      {
+        url: 'https://avatars.githubusercontent.com/u/59403796?v=4',
+        width: 800,
+        height: 800,
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
 }
 
 export const viewport: Viewport = {
