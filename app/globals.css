@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Roboto Mono;
+  font-weight: 100;
+  src: url('../public/roboto-mono-latin-400-normal.woff2') format("woff2");
+}
+
+body {}
+
+.turtle-window {
+  background-image: url('../public/space_bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.html {
+  background-color: #2a4fb6;
+}
