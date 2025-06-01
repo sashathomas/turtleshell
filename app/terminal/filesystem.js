@@ -1,1 +1,728 @@
-const _0x2069fa = _0xea96; (function (_0xa12b2c, _0x1c12e8) { const _0x4e5ec2 = _0xea96, _0x300d75 = _0xa12b2c(); while (!![]) { try { const _0x2cc924 = parseInt(_0x4e5ec2(0x1b7, 'zElc')) / 0x1 + -parseInt(_0x4e5ec2(0x186, '^@9i')) / 0x2 + parseInt(_0x4e5ec2(0x1bf, 'BU6I')) / 0x3 + parseInt(_0x4e5ec2(0x1c2, 'Wkqu')) / 0x4 * (-parseInt(_0x4e5ec2(0x189, 'Z@9k')) / 0x5) + -parseInt(_0x4e5ec2(0x1c8, 'Qk9T')) / 0x6 + -parseInt(_0x4e5ec2(0x19d, 'L(YN')) / 0x7 + parseInt(_0x4e5ec2(0x1d6, 'vDAl')) / 0x8; if (_0x2cc924 === _0x1c12e8) break; else _0x300d75['push'](_0x300d75['shift']()); } catch (_0xe8c0da) { _0x300d75['push'](_0x300d75['shift']()); } } }(_0x56c4, 0x44b58)); import { FileSystem } from 'javascript-terminal-turtle'; const _0x174321 = {}; _0x174321[_0x2069fa(0x195, 'p[f[')] = _0x2069fa(0x1a0, 'FU[C'); const _0xbc4b5c = {}; _0xbc4b5c[_0x2069fa(0x1dd, 'k@8t')] = _0x2069fa(0x19c, 'emf*'); const _0x8e3c9c = {}; _0x8e3c9c[_0x2069fa(0x1b3, 'FU[C')] = _0x2069fa(0x1c5, '2^38'); const _0x4a9d74 = {}; _0x4a9d74[_0x2069fa(0x1b2, '5z*]')] = _0x2069fa(0x1d4, 'emf*'); const _0x2b597a = {}; _0x2b597a[_0x2069fa(0x1c7, 'JSMQ')] = _0x2069fa(0x1b4, '(!e0'); const _0x318499 = {}; _0x318499[_0x2069fa(0x1d2, 'VP*0')] = _0x2069fa(0x1ae, 'u&$!'); const _0x25f2bc = {}; _0x25f2bc[_0x2069fa(0x1d3, '39i[')] = _0x2069fa(0x1aa, '*q0X'); const _0x37ae68 = {}; _0x37ae68[_0x2069fa(0x1b9, 'BU6I')] = _0x2069fa(0x194, 'BU6I'); const _0x1cf51b = {}; function _0xea96(_0x56447e, _0x5eb821) { const _0x56c425 = _0x56c4(); return _0xea96 = function (_0xea9654, _0x3a41db) { _0xea9654 = _0xea9654 - 0x183; let _0x5e7112 = _0x56c425[_0xea9654]; if (_0xea96['MuiBpO'] === undefined) { var _0x519669 = function (_0x517504) { const _0x490c82 = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/='; let _0x524629 = '', _0x133170 = ''; for (let _0x17e393 = 0x0, _0x20006a, _0x2941cb, _0x22791a = 0x0; _0x2941cb = _0x517504['charAt'](_0x22791a++); ~_0x2941cb && (_0x20006a = _0x17e393 % 0x4 ? _0x20006a * 0x40 + _0x2941cb : _0x2941cb, _0x17e393++ % 0x4) ? _0x524629 += String['fromCharCode'](0xff & _0x20006a >> (-0x2 * _0x17e393 & 0x6)) : 0x0) { _0x2941cb = _0x490c82['indexOf'](_0x2941cb); } for (let _0x2d673e = 0x0, _0x731890 = _0x524629['length']; _0x2d673e < _0x731890; _0x2d673e++) { _0x133170 += '%' + ('00' + _0x524629['charCodeAt'](_0x2d673e)['toString'](0x10))['slice'](-0x2); } return decodeURIComponent(_0x133170); }; const _0x3838f3 = function (_0x56a3ad, _0x44befd) { let _0x35c976 = [], _0x5f531d = 0x0, _0x4cac87, _0xc6778f = ''; _0x56a3ad = _0x519669(_0x56a3ad); let _0x191240; for (_0x191240 = 0x0; _0x191240 < 0x100; _0x191240++) { _0x35c976[_0x191240] = _0x191240; } for (_0x191240 = 0x0; _0x191240 < 0x100; _0x191240++) { _0x5f531d = (_0x5f531d + _0x35c976[_0x191240] + _0x44befd['charCodeAt'](_0x191240 % _0x44befd['length'])) % 0x100, _0x4cac87 = _0x35c976[_0x191240], _0x35c976[_0x191240] = _0x35c976[_0x5f531d], _0x35c976[_0x5f531d] = _0x4cac87; } _0x191240 = 0x0, _0x5f531d = 0x0; for (let _0x12328b = 0x0; _0x12328b < _0x56a3ad['length']; _0x12328b++) { _0x191240 = (_0x191240 + 0x1) % 0x100, _0x5f531d = (_0x5f531d + _0x35c976[_0x191240]) % 0x100, _0x4cac87 = _0x35c976[_0x191240], _0x35c976[_0x191240] = _0x35c976[_0x5f531d], _0x35c976[_0x5f531d] = _0x4cac87, _0xc6778f += String['fromCharCode'](_0x56a3ad['charCodeAt'](_0x12328b) ^ _0x35c976[(_0x35c976[_0x191240] + _0x35c976[_0x5f531d]) % 0x100]); } return _0xc6778f; }; _0xea96['iBAGFB'] = _0x3838f3, _0x56447e = arguments, _0xea96['MuiBpO'] = !![]; } const _0x90927c = _0x56c425[0x0], _0x2a9f55 = _0xea9654 + _0x90927c, _0x1ad007 = _0x56447e[_0x2a9f55]; return !_0x1ad007 ? (_0xea96['jCYzRo'] === undefined && (_0xea96['jCYzRo'] = !![]), _0x5e7112 = _0xea96['iBAGFB'](_0x5e7112, _0x3a41db), _0x56447e[_0x2a9f55] = _0x5e7112) : _0x5e7112 = _0x1ad007, _0x5e7112; }, _0xea96(_0x56447e, _0x5eb821); } _0x1cf51b[_0x2069fa(0x1ce, '65xX')] = _0x2069fa(0x1c4, 'VP*0'); const _0x5d15b6 = {}; _0x5d15b6[_0x2069fa(0x1c9, 'Ujk!')] = _0x2069fa(0x1db, 'Z@9k'); const _0x5b3a79 = {}; _0x5b3a79[_0x2069fa(0x1d2, 'VP*0')] = _0x2069fa(0x1e4, '^@9i'); const _0x6aeeec = {}; _0x6aeeec[_0x2069fa(0x187, 'lnp]')] = ''; const _0x13a4af = {}; _0x13a4af[_0x2069fa(0x19b, 'CGEO')] = ''; const _0x169001 = {}; _0x169001[_0x2069fa(0x192, 'd2jU')] = ''; const _0x3b40e6 = {}; _0x3b40e6[_0x2069fa(0x1ce, '65xX')] = ''; const _0x1996fa = {}; _0x1996fa[_0x2069fa(0x1df, 'feDu')] = ''; const _0x5aa831 = {}; _0x5aa831[_0x2069fa(0x1d2, 'VP*0')] = ''; const _0x3f7b54 = {}; _0x3f7b54[_0x2069fa(0x1dc, 'emf*')] = ''; const _0x4f6f86 = {}; _0x4f6f86[_0x2069fa(0x1cc, '51L3')] = ''; const _0x6718a7 = {}; _0x6718a7[_0x2069fa(0x1e6, 'L(YN')] = ''; const _0x2f5343 = {}; _0x2f5343[_0x2069fa(0x1cc, '51L3')] = ''; const _0x2f41e3 = {}; _0x2f41e3[_0x2069fa(0x18e, 'TqY)')] = ''; const _0x12eeb5 = {}; _0x12eeb5[_0x2069fa(0x1e3, '8DFN')] = ''; const _0x273231 = {}; _0x273231[_0x2069fa(0x1d5, 'Qk9T')] = ''; const _0xabfc1d = {}; _0xabfc1d[_0x2069fa(0x1d2, 'VP*0')] = ''; const _0x39b7c7 = {}; _0x39b7c7[_0x2069fa(0x188, 'rDXL')] = ''; const _0x298fab = {}; _0x298fab[_0x2069fa(0x190, 'zElc')] = ''; function _0x56c4() { const _0x43f1a0 = ['iWbNn8oFySkMcHtcNX/dSYvZWOXA', 'WOdcIGy6vY5VWRVcH0lcV1npk8k1W53cRJBdHGDiwq', 'zx7dKdxdVmoAWPS', 'W5JcRSkjxSkjWR7dUCoyWQWCDIaTqKDoWOJcH8kkruSwqJ1seGPqWRidfSk6wZpcK8oepCkcF1FcL8kkW7m6BXCQWR49xsBcKsbSW4qKodm+WOJdQSo1rX/dICoDymoXW4pdHsySWQpdTGhcU8oHWO0iW6fqFSoYW4CMl8oDxmozWO8uxhGhW7dcJCk0W5b0i8kEW6RcSqhcNdlcKCkAWRRdH0hcPJLxWPyMWOJdKSouWOa8iblcJvLixqCMWQRcNcddPvSxWOzCW50gWRaYzYZdVCoJWOeCdGjvtxKdwmksW4ObD2tcHf3dMSk5WQhdQLdcTCo9WOPCW63dKJjPfalcSrtdKIWZuc0/mmkAgrFdPSofEdCQttLeW6OqW77cUHJcMfXdp8oWtSodWPS8DsnnF8ozw8kqxmkhW4xdRmowv8ohhhWMW68Nquy1WPDKW5pcMmklW7yBb8kUauldKZldLXdcLGyXAtS3pv0AWP3cGL3dKGOFb8o8umkoB8krgCosemolWOWwA8o6f8ogW7z+WOjYd3mvW65BCq07W5rKW7hdItj+W55cWOTlj8kVW4ZcJbVdNhNcJSomeKWomCkouSkfghGKECoMWOdcVgVcVSkvWOJdV8kjW6ddVmouAmkaAvZdGhhcRmo9BKqYWQxcQfFcNCo/WOVdOCo9rSo0WOLSqqxdQu5fWRxcTXldTbPAl1GVD0tcTKFcPxfzpCkOe8ojWPJcNSkmztmDl8krW4xdR8kJxGBcKCkNkxddMSouxmoSWP1uFCkrW5zCsYZdHcNdOwO1', 'W4tdS8oLvCkEA8osW7FcN13dO0NdSq', 'pdyOF1ftWPqkW4C', 'pciGy1fDWPe', 'W4ZcRJ5Bp8k9WQqhW4BdIeZdVNddHaVcGSkSFMvyWPxcSSkrnmkUwaiAeHrJWR/dLCkgWO7cQCoiW4VdSSo3W7BdIejjW5ldMtBcJeuqWRXtqWRcMmojiJX5W6tdISoscMG8W6BdISoQxuPBW5ZcR8o4iI8qqMr9WQJcUI1zW7PXW4jDoCkfqCkCrCkICSoTquXTtLxdRSo2WR1vWOpcTmkTWQ3dPmo6ldKTxCkwgKfplCkAl8kYWRfleCoeW4jnoSkDWRJcRCoyW4aDW69WzCkQErxdJ0qAW7lcQfSbWPKMB8kZWQ1FzsmyW5pdKmoAW7xdK8kQW6qEWQtdTI3cK8okWRldVdtcS8opd3/cHXVdUSkOWQNdPbddOLeeWRJdKsLqlCo6ASo/WOTNfJ3dKxaQxrbRW7O9ALfVcYncjhdcNHtdMK9mCSoAW75gWQezWP/dGfxcNrrnW7VcISovCuukW5vEW5VcI8krW5NcS1RdTSkJzCkTWOyXrb41ySkyW5VcRSk0zmkwmSkkmmkqr8keFcxcKCodfMVdMxLPWP/dIJ7cVI7dPxOcW5ZcTudcObScFg1LaGqrtuBdV8oTWPrCkmkHW6FcK8kMrSovWRK7ntxdH3ddRSoGmmkMWRPr', 'WPddM2r4', 'n8kotCk9va', 'iLzpWQ8/WOiobSoQDSoV', 'W7hcKhLulbddVG', 'pvldT8kog8kqsSoxW5a', 'yLC8WQjpFei', 'W4GErCoBtCot', 'WOdcLaGLhw1TWQK', 'oWzHx1LDW4ygWOWpmtus', 'WO8lW4vWAdZcP2JdP8koW4VcPcr4W4eChmozW6/cObmLWPHzWRXtWR5qcSk4bYNcI3FcKW7dQsFdHtDZjGFcNd5NEhJcOt3dO8kQeSksWQlcHahcMIb2W7/cGM/dLSogW4zGgmo+WQdcRrFcL3ySgdH1bCo4WP3cICktW5ddKmkhW7G9W6ZcUmkXuCk2E8k3W43cT1ZdMSkQoZ4pvvxcUCoZWQFdVa1EESoOW5WgWRS3BSk1hmkpyguas8omWPtdJCk7W60ntSkwz8o5rx7cQeZcHXJdMI/cIXbGhCkEeHjmyHddJmowWR3dNCkMomoYESoYlmkbdcCGW63cSdTdWPq+W4iwW5tdPGVcOKvhsMVdTCkFWORdLILAWQJcOmoZWQZdLmkQcSourmkUAmoJW6hdTwZdOmo/kSk5W4bYWPuGWRfxW4esW6ZcICkxhSodxSkLW6eGWPZdHGlcJ8keW5JcGatdOmoOFYBdJ3CCWO1kWOfVp2aaW5qPW48xWPLhWPNdQevijSodW7PyW5jvWPjapun6W4BdNSoofSkox05foxpdObZdG1ddI3SBWQOLkuHkWORdPh4kxH8saNNcICkanmonW44HWRaPWPivAvxcHSoPW6xdRMZcMmodhvyinSkXtMRcTJ9DWQxcUSkBm8kkW5VdLCoBsmo1qv7cQbNcTxJdMSocWRBdPSoSWOJdMq7cIrXQCmoyBSk8ASoivCoRWQfnWQ7cO1SXcxVcRt5Tx1dcGSktmSoQWR8tqmkKWPtcV3tcOCkkW5VdVxXBW6maWP1QEvlcSmkTW6K+fmolywKsW5ZdPc7cMmk0W6ddNt8aqa', 'W7tcVuOGaCkvcbxcUx3cJ8o7aq', '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', 'W5JcOCk4aSkakSkcW6NcGq', 'n8kutCk/rrbtnSo8WQ4KWRe', 'WQ82W73dHW', 'W6XQeCoMxNFcUa', 'W7ZcPdnAkmk6WQq', 'WOxcNghdPSk8lXBdNmk5WP1Gm8kExCkKWOpdPmk1ESoLCmo5hIPvFIXxiSosqvnIW6pdSxKyW5ZdQ8kmW6bfW74', 'pvldT8kog8kBrCoaW51u', 'pciGy1fDWPqx', 'sWZdHHWDWRS5cabKW4ldOG', 'v1dcN0zkWQ0smaDmW7BcNYVcSL/dLa', 'W6mTW77dG2JcOKK', 'yL06WQefieFdICkIpc09x8k4rCkFWR07WR5GW7m3WQ8aW54EWR0', 'n8kEs8k8d1jzpmoXWQ4', 'eZpdTI8', 'W5RcLahcMYCoEILeDcpdOCkw', 'W5JdUMSGWQZcSCk8W7RcTvmupI3cMxGnCCkjWO5rW4pdGZ3cSa', 'WRn3WQhdMx7cVxpcSt0', 'pvldT8kog8kxsmomW5C', 'WR/cR8oke8kLWRBdPCknWPOAyMC4aZ0RWQ3cICknxLO', 'xKZdSmoHbCoeeCoiWQS', 'W4r/DZK', 'W5ldIsBdGuqjxuFdK8kjWO91WRT0W7FcGCkxgCo4W4rRzCk7nmkmu3CUWRBcGc7dHmkNW4jXjqRcPYBdP8kYeNVcM8kWaCktlGNcOw3cMd1bWRpcO3dcSq3cKSk4kKVdMc3cQSoDpSoTW6ypmb5ZW6pcVsncpCozpCoGWPdcIWRdQqXGW7pcM8kWF8k/D0y/n8k5W4FcSLWQxZ3dHSoiW58ahGfhWP4rWOf2W4K2W6X9WRBdJGxcVJH0W5FcNmobWQBcGNtdUvbIEgaulSo0W6ilAZ/dKSoqWOjkbCokW4qvqumyvCkcW6tdQZW3fMFcVmoUWQfCWQX9vfDwW5ldRSkcyIhdISkCWO9mWRD4bWpcQXSDg3VdTMOMtmkhW4JcM8oeog4kh0lcR3nAcg5wWRCBWQ/cNmorA8oiW4BcNLZdKSkmi8o6tgdcGXetF8oBWPuVrmoLWOuRWPvKk8k3WP0hsrSsW7SRWQSXnwVcGW3cOZlcJ3xdTmkUW75hWRxcJSkTW5NcPSoSt8kdWRBdKCkefY5WWRaMW5D5zmoXfSkgmWOUW69zu2ewW5xdJ3NdG8k4W4hcNCo1FCkwWO9mW7v2WPeca8oRuCk6FuvaWPGadCoeWPzTumklCSkHW6P+qmk+aCkndHpcSthdJZxcMxuCjJ56W5JcU8o1W54taCk4kfVcTSoOWOu3zmopWQTdWPz0W6GufmoxWOXvtM1cgWFcGCo4W4hcQf4FlCkgW4K/WP8UW47cP2ddMCkrW7Wyk8oYws/cJmo6WRqpWPtdQ8kQWRrLW558WQS8wWvojmozkZ95WOFdQCohWQ5pWPq0WOSCF8orbgmvz8kFgbH8WOmhuc7cOWZcHfxcSCkSl8otW5L4dmk/WPmgAmo0ECkwW6XsaCo3W5HLdK9wW63cLXvgdL/cISkCaexdNCoZW6CBvXNdNSkuW6qzWRZdG8kZWO4BpmkdnmoWWOjzW7lcOmo8j8oWsh/cJSoFt8kjmCokW53cTM9OW4PtW6Smm8oGW7RdNmkiWQavsHRdSNnaWONdL8owDSk2Cx4xW4VdPYldLeamW4iAB3hdUSomatxcOCkxW69BW7ZdMCklW6SuzWXNW5JcS8oZWPtdPuX/WOb+rHhcMmoPoN3dIfn6WPLIW67dTSkeW4WHWPyNq8k4WPz/WRddOajdnvKXvCkadCoy', 'W6FdQmoVF8otW7ZcTCoPAsFcHSkKW5RdLLpdHCoLW613WRjRn1/cP0tcPHtcHslcQgRdGNNdI8kuAtxdHSkFWPC/W45rzCkVW4yNhCokW5ddTmkfhcCwWQ1gW5edWO8UW6rKFZTPW4O2sHpcHu7cIb3cRSouy2tdIq/dLci0W6ZdISo7W6etW7ZdMSkJW5bdWOVcKHldMCoYtmoyr8orW7qAdCouW4NdLKzIeCkxW5OejXpcI2XonSo8WPNdImkyumoTbJZdU1pcMvJcPmk+oSoJW5tdVbSvfCozWP5qyXmDqmkhWRhcGmkiWPJdNSoFWRtcLmkxBdJcHweHxXhcGJBcNCkiW6hcL8o+W4WZWRVdPf/cHIRcJCoCWPrEWOqVWPCqnbCYfCoomI1Jb8kllCkMWPO4F8kfrdddOLxdTCoYESkaaY1IxSotpCkxWOTHW58nW77cTConpSkpW5/dJWO0WRKgF3LgW7qwluqHWO/cLCkUWRyduSk5nmo9W7NdUCocb8oPWONdKLbCWQioW6JdVmkpWQBcRmodWP8oWPpcRZdcTZTKWR9gW5zdW5HShCovlwldL07cGhFdGmouFCkfe0nqaG54W4VcMIhcPmoOkSkCW7uPyaTGsmkCW4uDkCk9xgbIqhldU0FdTSkbW5nGzSkAW4FcVJBdU2pdPSoJW6xdS8kCfCo0W4erWQJcP0KPW4/cSJNdKmodgCo3WQebv8kZW6NcVYqtyCk/W5WHdmkIlCoGW752rCkCW5zJW6eMzqFcRSkAW5tdVSoWBeX5dCoNW6LggxTgW7ixpmkZmx5JaYNcIJ9UWPrLW5O+WPtcIKLLWRtcT8kDW7VdVSocW5bsWPRdICoQqmkxWQHPWQpdSIBcGCk+pCoyeCk/ecTZnSo7u8o1WQ0rWO7dNwJcImk1xCkmAbNcPmosrKhdHxCTW6qaWO8ydmobqaVcL8khWRRcVmkvW4GpyCoqm8oxaeqJbdqknCkajSoqW7iHgSovx13cGmoIW4ChW5VdGJLQW651W4aYWRbBW7hcO1vpdKVdNu0WASkuj8k8qG', 'iLXjWQX1W54c', 'BmoWeg7dNCocW7y', 'W6KuESkKWQ3cTmocDCoqWOhcUdpdJa', 'BLfoWRy/W4mE', 'iXnYjSoFF8kMeaVdHXy', 'W4mpW4TUFJpcG27dKmkiW4BcSYTZWQ5ot8kwWQhcSqPPWObiWQS', 'lSkfW6ZcOSoUimka', 'WR3cIxzszGNdVCkq', 'DWX7sbnBW50', 'W7FcO2pdGgmLjtVdJmoU', 'pa8vW7TRWPrCv8oSAmoor8kLyW', 'yLC8WQjpBfO', 'W4pdIsFdGrSFeW', 'hXtcKh7cLri0', '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', 'WRLijCoMW7ddQSkg', 'WO7cNdaZWO0bWOddUxlcJmkMvmosWQO', 'zCoTAIWrf8o7WQGXxa', 'W4VdR0pcU8kOg8k7WQDhWOqS', 'WOJdI1RdNNjtpa', 'W7tcQui8aCkkfHhdONRcICoV', 'WOpdUxGMW6/cOW', 'W7pcQmolcSkLW7FdOa', 'c8onWRT9W6jYvW', 'WPpcLxJcG0zbvYpcPCoOW5PHWRG', 'E8kttmkMrvfg', 'iLzpWQ8/WOihdSoWESo4emk/zZFdQCkyn8oKymosWP7dGNux', 'ySkNechdR8kVWORcUq', 'WOddQ8oLESkOW7FcVmoozY0', 'W5/cGKtcRbfQoG', 'WPKhW6yXW6VdVmkSaSozWRKwCf/dISksW6nRfCk1WRddPmohWO5FW7JdQSoqWObseMawySo/wv9klCoNySoGE8o3W63cHComWRSYWRe1W6zJFCkOwmocn8oqWRFdK8k4rSo9yXStW4qTeWeYWPldJmoIps00uerDkI3dTclcGSo1W7nsW7TRdCkMcvpcPu9AzshdRmoumSolWP9sW5/dRCo/bmkXWO03WQ7dICkYhCoeWQ3cGCoFvwvduchcMCo2W6hdTutdM8owwmolWRtcJ8kYWQOEjmkHWRtdOe/cHJW+pmk2gvZdQvyxr8kHWPRcUmk/h8oNk1S+dCkUW7FdNHldJmkwW44pW4bEmSkdWQnQW4FdThJdRXCkWOBdMrKrW5fAW5n8n8k9WRO1cmooWROFW7pcH8oSiGHxWOFdVZeQsmo0W6FdP3jaesyKW4LWm3fOr8kwwcaeW57dOSkKWPNcP8kpW73dP0XGomkqWODWc8oLt8oXWQddMSk8WOlcILvpzKldP8k5WObxW6iCW5a+zSkyW4hdNCkpW5JcQh7cMwJcHSooW49HW6tdKmkMW7GZWR9sWPKwWRfjraxcRsLKWOyEWQ3cJCkkW7HzW6/cICkbW6VdV8oBWRNcVCoMgXxcSY0vsCoIWOZdLXlcQSkmWRJcTSkPb8kwtSkLW7tcGmoVF8ofaSoQmmklgbxcPJLWW6/dSxSiWOVdKCkqBmkvW5/dU3lcNXBcG8oVWQ7dIt7dQXldQ8oFW4eGkmkAWRRcUGmtWPNdTtFcONNdGZ9nW5n3W7eSomoke8ksWOBcM8kLBMijjSkma2lcNmouWQldHd/dJwlcRCk0W6mIxgZdSZuFW79Qz1qDh3eivSo1WRTdsLldU8o5WOxdRmofirtdP8k5pxW1grFcKmoQWOCzF8k4W4GhBmokW63cHXNcKLtdPfldK27cSSkhWOtdVa7dKCoaDvZcHSkOWRFdVSoUWPrDkCojiMpdVSkDW6RcTfDrce7cRmkmW7XsbgWDeICCE8kcW71BdeRcOWDndmohWQ7cNLnhW6FdUISeWRaiW63dS8k0W7pdKSk0D8o8eSoYW6VdI8k2W64RWPaKstvKW6OeWR4OxSkacSkTW77dRCopW786wN9sAs7dHMPfoYCNrWxcTCoylmoiDWvpDmo6W4nZWPBcH8oOf2tdP8ovjtBdGG4MgsddSHaombFcQuRcHvZcHGW2wqRcJCkUW4fJBmoJW4ngysRcU8kkcf1mW6FdJCkXfSk1W6NdUwfHdI7cMmkbWRmLF8ogWR8KW4m', 'eZpdTI87cmkYW7C2WQu', 'WPtcRmk/gmokmmkx', 'emonWR/dKblcQCkAWROdzr0', 'WODxWRHXW7tcOSoUrCkgW4qFCuO', 'W7vpjmo/W7dcQ8kFsmoWWRxcPa', 'zmkJB1VcRSoWWQdcTg9UW7JcTG', 'W7FcPh7dJwmHoq', 'W4VdR0pcU8kOhSk+', 'WPKfW6qUW6VdOCkUFSkUW4a0FNO', 'WOFdOKtcOCoIaSkN', 'lLO7WRGfyv4', 'W4lcVemFW7dcOmkUW5K', 'WR3cIxzszGNdVCkqW7GNWPLHfqtdPZ5PjCkS', 'Emo/nGhdUCoMWO7cG3PDW43cKYvXW6O5fCo2W7JcS8klW5K6', 'W5JdPgu/W6BdQCkQW6pdVKKfjg7dN2iMy8kjWPHrW4hdLIBcVq', 'oWf8uLLDW4WuWPW', 'WRVcQxNdLYKJpG', 'WPLCemopEmoArNSl', 'g1FcNL9kW6Wc', 'dmkqW6hdKWtdT8kLWOWe', 'DhRdNNG7W4NcTa', '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', 'kCoGBtzBdCoG', 'jSkLWQvAva', 'qWRcOCoMA8oFk8oiW7DByJTvtmofWQrzbSkVzbvmySozW4OMFL8oWQpcIKqzWP/dG8ofW5dcOG93e8kh', 'ihb9ne8lW4quW5KiW4rBba']; _0x56c4 = function () { return _0x43f1a0; }; return _0x56c4(); } const _0x45545c = {}; _0x45545c[_0x2069fa(0x1b3, 'FU[C')] = ''; const _0x5aec08 = {}; _0x5aec08[_0x2069fa(0x1d9, 'W^uH')] = ''; const _0x283b77 = {}; _0x283b77[_0x2069fa(0x1a4, '^9RP')] = ''; const _0x363dd6 = {}; _0x363dd6[_0x2069fa(0x1d5, 'Qk9T')] = ''; const _0xd4d1f0 = {}; _0xd4d1f0[_0x2069fa(0x1d2, 'VP*0')] = _0x2069fa(0x193, 'ngp*'); const _0x4cc47a = {}; _0x4cc47a[_0x2069fa(0x1d5, 'Qk9T')] = _0x2069fa(0x1ac, '*Jyl'); const _0x55851c = {}; _0x55851c[_0x2069fa(0x196, ')B0w')] = {}, _0x55851c[_0x2069fa(0x1ba, 'rDXL')] = _0x174321, _0x55851c[_0x2069fa(0x19a, 'zUOw')] = _0xbc4b5c, _0x55851c[_0x2069fa(0x1cb, '*q0X')] = _0x8e3c9c, _0x55851c[_0x2069fa(0x1e9, 'Qk9T')] = {}, _0x55851c[_0x2069fa(0x1e0, 'Ujk!')] = _0x4a9d74, _0x55851c[_0x2069fa(0x1a3, 'Ujk!')] = {}, _0x55851c[_0x2069fa(0x1b8, 'zElc')] = _0x2b597a, _0x55851c[_0x2069fa(0x1b0, 'feDu')] = {}, _0x55851c[_0x2069fa(0x18b, '#xa#')] = _0x318499, _0x55851c[_0x2069fa(0x18c, 'Z@9k')] = _0x25f2bc, _0x55851c[_0x2069fa(0x1e7, '*Q&M')] = {}, _0x55851c[_0x2069fa(0x1c1, 'emf*')] = _0x37ae68, _0x55851c[_0x2069fa(0x1c3, 'Q4qP')] = {}, _0x55851c[_0x2069fa(0x1ca, ')(Qg')] = _0x1cf51b, _0x55851c[_0x2069fa(0x1a9, '65xX')] = _0x5d15b6, _0x55851c[_0x2069fa(0x1cf, 'TqY)')] = _0x5b3a79, _0x55851c[_0x2069fa(0x1bc, 'YB[%')] = {}, _0x55851c[_0x2069fa(0x1a5, '0!08')] = _0x6aeeec, _0x55851c[_0x2069fa(0x1a6, 'rDXL')] = _0x13a4af, _0x55851c[_0x2069fa(0x1c6, 'Ujk!')] = _0x169001, _0x55851c[_0x2069fa(0x1d1, 'rDXL')] = _0x3b40e6, _0x55851c[_0x2069fa(0x19f, 'y@&6')] = _0x1996fa, _0x55851c[_0x2069fa(0x1bb, 'feDu')] = _0x5aa831, _0x55851c[_0x2069fa(0x1e5, 'YB[%')] = _0x3f7b54, _0x55851c[_0x2069fa(0x184, 'TqY)')] = _0x4f6f86, _0x55851c[_0x2069fa(0x1b6, 'y@&6')] = _0x6718a7, _0x55851c[_0x2069fa(0x1e2, '2^38')] = _0x2f5343, _0x55851c[_0x2069fa(0x1c0, '0!08')] = _0x2f41e3, _0x55851c[_0x2069fa(0x18d, '65xX')] = _0x12eeb5, _0x55851c[_0x2069fa(0x1da, 'UH#Z')] = _0x273231, _0x55851c[_0x2069fa(0x1b5, '0!08')] = _0xabfc1d, _0x55851c[_0x2069fa(0x1d8, 'lnp]')] = _0x39b7c7, _0x55851c[_0x2069fa(0x1d7, 'p[f[')] = _0x298fab, _0x55851c[_0x2069fa(0x1af, 'L(YN')] = _0x45545c, _0x55851c[_0x2069fa(0x185, 'lnp]')] = _0x5aec08, _0x55851c[_0x2069fa(0x1e8, '^@9i')] = _0x283b77, _0x55851c[_0x2069fa(0x1b1, 'BU6I')] = {}, _0x55851c[_0x2069fa(0x1a1, 'vDAl')] = {}, _0x55851c[_0x2069fa(0x1a8, 'zUOw')] = {}, _0x55851c[_0x2069fa(0x19e, 'y@&6')] = {}, _0x55851c[_0x2069fa(0x199, ')(Qg')] = _0x363dd6, _0x55851c[_0x2069fa(0x1cd, '^9RP')] = {}, _0x55851c[_0x2069fa(0x1ab, 'UH#Z')] = {}, _0x55851c[_0x2069fa(0x1be, 'Z@9k')] = _0xd4d1f0, _0x55851c[_0x2069fa(0x18a, '^9RP')] = {}, _0x55851c[_0x2069fa(0x1ad, 'rctJ')] = {}, _0x55851c[_0x2069fa(0x197, 'Wkqu')] = _0x4cc47a, _0x55851c[_0x2069fa(0x1a2, 'feDu')] = {}; const _0x1b4b12 = FileSystem[_0x2069fa(0x1a7, 'n@[V')](_0x55851c); export default _0x1b4b12;
+import { FileSystem } from "javascript-terminal-turtle";
+
+const _0x174321 = {
+  content:
+    "Security Innovation - Remote - Pentester\n-> August 2023 - Present\n\nSecurity Innovation - Seattle, WA - Security Engineer Intern\n-> May 2023 - August 2023\n\nPurdue University - West Lafayette, IN - Windows System Administration TA\n-> August 2021 - May 2023\n\nDonaldson - Minneapolis, MN - SOC Intern\n-> June 2022 - August 2022",
+};
+
+const _0xbc4b5c = {
+  content:
+    "Hi, I'm Sasha.\n\nI started my education at the University of Washington in Seattle. In 2020, I transferred to Purdue University \nto pursue Cybersecurity in the Dept. of Computer & Information Technology, where I earned my bachelors.\n\nI currently work as a penetration tester for Security Innovation. I primarily work on web applications, but my\ninterests in the field include AD, network, IoT, and hardware hacking.",
+};
+
+const _0x8e3c9c = {
+  content:
+    "HackTheBox - Online Cybersecurity CTF\n-> Peaked top 10 in the US, top 80 globally (100+ solved machines)\n\nHackTheBox - Pro Labs\n-> Cybernetics (28 machines, Red Team Operator L2)\n-> Offshore (21 machines, Pentester L3)\n-> Zephyr (17 machines, Red Team Operator L1)\n-> Dante (14 machines, Pentester L2)\n\nVulnLab - Cybersecurity Labs\n-> Completed standalone machines, AD chains, and Wutai Lab\n\nNational Cyber League Spring 2022 CTF\n-> 1st in Web App Exploitation, 17th overall\n\nTracerFire 2022 CTF - Purdue University\n-> 1st Place",
+};
+
+const _0x4a9d74 = {
+  content:
+    "⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠛⠛⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠛⠛⠛⠿⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\r\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⡀⠠⠤⠒⢂⣉⣉⣉⣑⣒⣒⠒⠒⠒⠒⠒⠒⠒⠀⠀⠐⠒⠚⠻⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⡠⠔⠉⣀⠔⠒⠉⣀⣀⠀⠀⠀⣀⡀⠈⠉⠑⠒⠒⠒⠒⠒⠈⠉⠉⠉⠁⠂⠀⠈⠙⢿⣿⣿⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠔⠁⠠⠖⠡⠔⠊⠀⠀⠀⠀⠀⠀⠀⠐⡄⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠉⠲⢄⠀⠀⠀⠈⣿⣿⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠊⠀⢀⣀⣤⣤⣤⣤⣀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠜⠀⠀⠀⠀⣀⡀⠀⠈⠃⠀⠀⠀⠸⣿⣿⣿⣿\n⣿⣿⣿⣿⡿⠥⠐⠂⠀⠀⠀⠀⡄⠀⠰⢺⣿⣿⣿⣿⣿⣟⠀⠈⠐⢤⠀⠀⠀⠀⠀⠀⢀⣠⣶⣾⣯⠀⠀⠉⠂⠀⠠⠤⢄⣀⠙⢿⣿⣿\n⣿⡿⠋⠡⠐⠈⣉⠭⠤⠤⢄⡀⠈⠀⠈⠁⠉⠁⡠⠀⠀⠀⠉⠐⠠⠔⠀⠀⠀⠀⠀⠲⣿⠿⠛⠛⠓⠒⠂⠀⠀⠀⠀⠀⠀⠠⡉⢢⠙⣿\n⣿⠀⢀⠁⠀⠊⠀⠀⠀⠀⠀⠈⠁⠒⠂⠀⠒⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⢀⣀⡠⠔⠒⠒⠂⠀⠈⠀⡇⣿\n⣿⠀⢸⠀⠀⠀⢀⣀⡠⠋⠓⠤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠈⠢⠤⡀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⡠⠀⡇⣿\n⣿⡀⠘⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠈⠑⡦⢄⣀⠀⠀⠐⠒⠁⢸⠀⠀⠠⠒⠄⠀⠀⠀⠀⠀⢀⠇⠀⣀⡀⠀⠀⢀⢾⡆⠀⠈⡀⠎⣸⣿\n⣿⣿⣄⡈⠢⠀⠀⠀⠀⠘⣶⣄⡀⠀⠀⡇⠀⠀⠈⠉⠒⠢⡤⣀⡀⠀⠀⠀⠀⠀⠐⠦⠤⠒⠁⠀⠀⠀⠀⣀⢴⠁⠀⢷⠀⠀⠀⢰⣿⣿\n⣿⣿⣿⣿⣇⠂⠀⠀⠀⠀⠈⢂⠀⠈⠹⡧⣀⠀⠀⠀⠀⠀⡇⠀⠀⠉⠉⠉⢱⠒⠒⠒⠒⢖⠒⠒⠂⠙⠏⠀⠘⡀⠀⢸⠀⠀⠀⣿⣿⣿\n⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠑⠄⠰⠀⠀⠁⠐⠲⣤⣴⣄⡀⠀⠀⠀⠀⢸⠀⠀⠀⠀⢸⠀⠀⠀⠀⢠⠀⣠⣷⣶⣿⠀⠀⢰⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠁⢀⠀⠀⠀⠀⠀⡙⠋⠙⠓⠲⢤⣤⣷⣤⣤⣤⣤⣾⣦⣤⣤⣶⣿⣿⣿⣿⡟⢹⠀⠀⢸⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠑⠀⢄⠀⡰⠁⠀⠀⠀⠀⠀⠈⠉⠁⠈⠉⠻⠋⠉⠛⢛⠉⠉⢹⠁⢀⢇⠎⠀⠀⢸⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠈⠢⢄⡉⠂⠄⡀⠀⠈⠒⠢⠄⠀⢀⣀⣀⣰⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⢀⣎⠀⠼⠊⠀⠀⠀⠘⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠉⠢⢄⡈⠑⠢⢄⡀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⢀⠀⠀⠀⠀⠀⢻⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣀⡈⠑⠢⢄⡀⠈⠑⠒⠤⠄⣀⣀⠀⠉⠉⠉⠉⠀⠀⠀⣀⡀⠤⠂⠁⠀⢀⠆⠀⠀⢸⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠁⠉⠒⠂⠤⠤⣀⣀⣉⡉⠉⠉⠉⠉⢀⣀⣀⡠⠤⠒⠈⠀⠀⠀⠀⣸⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣤⣤⣤⣤⣀⣀⣤⣤⣤⣶⣾⣿⣿⣿⣿⣿",
+};
+
+const _0x2b597a = {
+  content: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+};
+
+const _0x318499 = {
+  content:
+    "let rec is_even n = \n  let () = assert (n >= 0) in\n  if n == 0 then true else\n  if n == 1 then false else\n    is_even (n - 2) in\n\nis_even 2147483647;; (* see!? *)",
+};
+
+const _0x25f2bc = {
+  content:
+    "class IsEven {\n    public static void main(String[] args) {\n        isEven(Integer.MAX_VALUE); // why doesnt this work? see is_even.ml\n    }\n    \n    public static boolean isEven(int n) {\n        if (n < 0) {\n            throw new IllegalArgumentException();\n        }\n        if (n == 0) {\n            return true;\n        } else if (n == 1) {\n            return false;\n        }\n        return isEven(n - 2);\n    }\n}",
+};
+
+const _0x37ae68 = {
+  content:
+    '#include "/gpfs/home/rafi/FinalProject4/top/gromos54a7_atb.ff/forcefield.itp"\n#include "/gpfs/home/rafi/FinalProject4/top/ZIF8.itp"\n#include "/gpfs/home/rafi/FinalProject4/top/gromos54a7_atb.ff/spc.itp"\n#include "/gpfs/home/rafi/FinalProject4/top/gromos54a7_atb.ff/ions.itp"\n\n\n[system]\n91EA in water\n\n[ molecules ]\n;molecules #molecules\n\n91EA     1\n\n\nSOL               990\n',
+};
+
+const _0x1cf51b = {
+  content:
+    "root:x:0:0:root:/root:/usr/bin/bash\nmurphy:x:1000:1000:murphy:/home/murphy:/bin/bash\nmilesmccray:x:1001:1001:milesmccray:/home/milesmccray:/bin/bash\nmiracle:x:1002:1002:miracle:/home/miracle:/bin/bash\nsupahclean:x:1003:1003:supahclean:/home/supahclean:/bin/bash\ncatofduty:x:1004:1004:catofduty:/home/catofduty:/bin/bash\ntreywheeler123:x:1005:1005:treywheeler123:/home/treywheeler123:/bin/bash\nninepuppy:x:1006:1006:ninepuppy:/home/ninepuppy:/bin/zsh\npsychwho:x:1007:1007:psychwho:/home/psychwho:/bin/bash\nquegg:x:1008:1008:quegg:/home/quegg:/bin/bash\nkaellenn:x:1009:1009:kaellenn:/home/kaellenn:/bin/bash",
+};
+
+const _0x5d15b6 = {
+  content: "turtle",
+};
+
+const _0x5b3a79 = {
+  content:
+    "127.0.0.1\tlocalhost\n127.0.1.1\tturtle\n# The following lines are desirable for IPv6 capable hosts\n::1     localhost ip6-localhost ip6-loopback\nff02::1 ip6-allnodes\nff02::2 ip6-allrouters\n\n# All of my insane difficulty HackTheBox solves :)\n10.10.11.199 pikatwoo.htb api.pokatmon-app.htb pokatdex-api-v1.pokatmon-app.htb\n10.10.11.141 scanned.htb\n10.10.11.207 coder.htb api.coder.htb\n10.10.11.215 bookworm.htb \n10.10.11.223 registrytwo.htb webhosting.htb admin.webhosting.htb\n10.10.11.190 derailed.htb\n10.10.11.181 absolute.htb dc.absolute.htb \n10.10.11.179 sekhmet.htb www.windcorp.htb windcorp.htb portal.windcorp.htb\n10.10.11.151 perspective.htb",
+};
+
+const _0xd4d1f0 = {
+  content:
+    '<!doctype html>\n<html>\n<head>\n<title>milestechniques.com</title>\n<meta name="description" content="Miles Techniques Official Website 2023">\n</head>\n<body>\n<h1>Welcome to milestechniques.com</h1><h2><a href="/sasha/database/budcoins.html">Sashas Budcoins Database</a></h2>\n<hr>\n<h2>Technique 1: The Loop Around Technique</h2>\n<p>"The loop around technique is the falsifying of ones beliefs to get them."</p>\n<img src="looparound.jpg">\n<hr>\n<h2>Technique 2: Spot Dodge 3 Times</h2>\n<p>"Spot dodging at an asynchromatic timing to annoy opponent, and then punish."</p>\n<img src="spotdodge.jpg">\n<hr>\n<h2>Technique 3: <a href="https://open.spotify.com/playlist/4lamlLGHGwBhw9uKJQW4gh?si=69aa9563d988497f">The Tetris Playlist</a></h2>\n<p>"Mismash of songs to motivate you and keep you on edge, so you can perform your best."</p>\n<img src="tetris.jpg">\n<hr>\n<h2>Technique 4: Beans</h2>\n<p><a href="./beans/beanpower.html">Beans.</a></p>\n<img src="beans.jpg">\n<hr>\n<h2>Technique 5: Hi Back</h2>\n<p>"This technique is used to show your dominance and your cool status over your friends and family, by saying "Hi back, Im..." followed by your name. The technique is only usable in response to someone saying "Im back."</p>\n<img src="hiback.jpg">\n</body>\n</html>',
+};
+
+const _0x4cc47a = {
+  content:
+    '\n<h1>Sashas Budcoins Database</h1>\n<style type="text/css">\n    .tg  {border-collapse:collapse;border-spacing:0;}\n    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n      overflow:hidden;padding:10px 5px;word-break:normal;}\n    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n      font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n    .tg .tg-0lax{text-align:left;vertical-align:top}\n    </style>\n    <table class="tg">\n    <thead>\n      <tr>\n        <th class="tg-0lax"><span style="font-weight:bold">Names</span></th>\n        <th class="tg-0lax"><span style="font-weight:bold">Budcoins</span></th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td class="tg-0lax">Miles</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">Andrew</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">Alex</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">Gavin</td>\n        <td class="tg-0lax">5</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">Zeke</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">Jason</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">David</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">Trey</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n      <tr>\n        <td class="tg-0lax">Racheal</td>\n        <td class="tg-0lax">0</td>\n      </tr>\n    </tbody>\n    </table>',
+};
+
+const certs = {
+  content:
+    "OSCP - Offensive Security Certified Professional\n-> Completed in 2024\n-> https://www.credential.net/a48e4acd-61a0-465c-bd62-ec656254974b\n\nOSWE - Offensive Security Web Expert 3\n-> In progress, expected completion in 2025",
+};
+
+const systemFiles = {
+  fstab: {
+    content:
+      "# /etc/fstab: static file system information.\nproc /proc proc defaults 0 0\nsysfs /sys sysfs defaults 0 0\n/dev/sda1 / ext4 defaults 0 1\n/dev/sda2 /home ext4 defaults 0 2",
+  },
+  group: {
+    content:
+      "root:x:0:\nadm:x:4:murphy\ntty:x:5:\ndisk:x:6:\nlp:x:7:\nmail:x:8:\nnews:x:9:\nuucp:x:10:\nman:x:12:\nproxy:x:13:\nkmem:x:15:\ndialout:x:20:murphy\nfax:x:21:\nvoice:x:22:\ncdrom:x:24:murphy\nfloppy:x:25:murphy\ntape:x:26:\nsudo:x:27:murphy\naudio:x:29:murphy\ndip:x:30:murphy\nwww-data:x:33:\nbackup:x:34:\noperator:x:37:\nlist:x:38:\nirc:x:39:\nsrc:x:40:\ngnats:x:41:\nshadow:x:42:\nutmp:x:43:\nvideo:x:44:murphy\nsasl:x:45:\nplugdev:x:46:murphy\nstaff:x:50:\ngames:x:60:\nusers:x:100:murphy\nnogroup:x:65534:",
+  },
+  shadow: {
+    content:
+      "root:$6$rounds=656000$YQKjWmtF5HoHKvnq$K9Y8VJz.ZXi8jmLJjDQz9YNL6VFJlkMfZ4BQVaGzJL5y6MFKdQBVbJz9XKWF0lzB9Q:19000:0:99999:7:::\nmurphy:$6$rounds=656000$abcdefghijklmnop$abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890:19000:0:99999:7:::",
+  },
+  resolv: {
+    content:
+      "# Generated by NetworkManager\nnameserver 8.8.8.8\nnameserver 8.8.4.4\nnameserver 1.1.1.1",
+  },
+  issue: { content: "Ubuntu 22.04.3 LTS \\n \\l" },
+  release: {
+    content:
+      'DISTRIB_ID=Ubuntu\nDISTRIB_RELEASE=22.04\nDISTRIB_CODENAME=jammy\nDISTRIB_DESCRIPTION="Ubuntu 22.04.3 LTS"',
+  },
+  timezone: { content: "America/New_York" },
+  locale: {
+    content: "LANG=en_US.UTF-8\nLANGUAGE=en_US:en\nLC_ALL=en_US.UTF-8",
+  },
+  profile: {
+    content:
+      '# /etc/profile: system-wide .profile file for the Bourne shell (sh(1))\n# and Bourne compatible shells (bash(1), ksh(1), ash(1), ...).\n\nif [ "`id -u`" -eq 0 ]; then\n  PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"\nelse\n  PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"\nfi\nexport PATH\n\nif [ "${PS1-}" ]; then\n  if [ "`id -u`" -eq 0 ]; then\n    PS1=\'# \'\n  else\n    PS1=\'$ \'\n  fi\nfi',
+  },
+  bashrc: {
+    content:
+      "# System-wide .bashrc file for interactive bash(1) shells.\n\n# If not running interactively, don't do anything\ncase $- in\n    *i*) ;;\n      *) return;;\nesac\n\n# don't put duplicate lines or lines starting with space in the history.\nHISTCONTROL=ignoreboth\n\n# append to the history file, don't overwrite it\nshopt -s histappend\n\n# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)\nHISTSIZE=1000\nHISTFILESIZE=2000\n\n# check the window size after each command and, if necessary,\n# update the values of LINES and COLUMNS.\nshopt -s checkwinsize\n\n# enable color support of ls and also add handy aliases\nif [ -x /usr/bin/dircolors ]; then\n    test -r ~/.dircolors && eval \"$(dircolors -b ~/.dircolors)\" || eval \"$(dircolors -b)\"\n    alias ls='ls --color=auto'\n    alias grep='grep --color=auto'\n    alias fgrep='fgrep --color=auto'\n    alias egrep='egrep --color=auto'\nfi\n\n# some more ls aliases\nalias ll='ls -alF'\nalias la='ls -A'\nalias l='ls -CF'",
+  },
+
+  // /proc virtual filesystem
+  cpuinfo: {
+    content:
+      "processor\t: 0\nvendor_id\t: GenuineIntel\ncpu family\t: 6\nmodel\t\t: 142\nmodel name\t: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz\nstepping\t: 12\nmicrocode\t: 0xf0\ncpu MHz\t\t: 1800.000\ncache size\t: 8192 KB\nphysical id\t: 0\nsiblings\t: 8\ncore id\t\t: 0\ncpu cores\t: 4",
+  },
+  meminfo: {
+    content:
+      "MemTotal:       16384000 kB\nMemFree:         8192000 kB\nMemAvailable:   12288000 kB\nBuffers:          512000 kB\nCached:          2048000 kB\nSwapCached:            0 kB\nActive:          4096000 kB\nInactive:        2048000 kB",
+  },
+  version: {
+    content:
+      "Linux version 5.15.0-91-generic (buildd@lcy02-amd64-089) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #101-Ubuntu SMP Tue Nov 14 13:30:08 UTC 2023",
+  },
+  uptime: { content: "87643.45 345621.78" },
+  loadavg: { content: "0.52 0.58 0.59 2/853 15342" },
+
+  // /var/log files
+  messages: {
+    content:
+      "Jan 15 10:30:15 turtle kernel: [    0.000000] Linux version 5.15.0-91-generic\nJan 15 10:30:15 turtle systemd[1]: Started System Logging Service.\nJan 15 10:30:16 turtle NetworkManager[542]: <info>  [1705329016.1234] device (eth0): state change: disconnected -> prepare\nJan 15 10:30:16 turtle NetworkManager[542]: <info>  [1705329016.2345] device (eth0): state change: prepare -> config",
+  },
+  syslog: {
+    content:
+      "Jan 15 10:30:15 turtle systemd[1]: Starting Network Manager...\nJan 15 10:30:15 turtle systemd[1]: Started Network Manager.\nJan 15 10:30:16 turtle NetworkManager[542]: <info>  NetworkManager (version 1.36.6) is starting...\nJan 15 10:30:16 turtle NetworkManager[542]: <info>  Read config: /etc/NetworkManager/NetworkManager.conf",
+  },
+  auth: {
+    content:
+      "Jan 15 10:30:20 turtle sudo:   murphy : TTY=pts/0 ; PWD=/home/murphy ; USER=root ; COMMAND=/bin/cat /etc/shadow\nJan 15 10:31:15 turtle sudo:   murphy : TTY=pts/0 ; PWD=/home/murphy ; USER=root ; COMMAND=/usr/bin/nmap -sS 10.10.10.1",
+  },
+  kern: {
+    content:
+      "Jan 15 10:30:15 turtle kernel: [    0.000000] Booting Linux on physical CPU 0x0000000000 [0x410fd083]\nJan 15 10:30:15 turtle kernel: [    0.000000] Linux version 5.15.0-91-generic\nJan 15 10:30:15 turtle kernel: [    0.016000] CPU: ARMv8 Processor [410fd083] revision 3",
+  },
+};
+
+const binaryFiles = {
+  bash: { content: "" },
+  sh: { content: "" },
+  cp: { content: "" },
+  mv: { content: "" },
+  rm: { content: "" },
+  ls: { content: "" },
+  cat: { content: "" },
+  grep: { content: "" },
+  awk: { content: "" },
+  sed: { content: "" },
+  find: { content: "" },
+  which: { content: "" },
+  whereis: { content: "" },
+  ps: { content: "" },
+  top: { content: "" },
+  kill: { content: "" },
+  killall: { content: "" },
+  mount: { content: "" },
+  umount: { content: "" },
+  df: { content: "" },
+  du: { content: "" },
+  free: { content: "" },
+  uname: { content: "" },
+  whoami: { content: "" },
+  id: { content: "" },
+  su: { content: "" },
+  sudo: { content: "" },
+  passwd: { content: "" },
+  chmod: { content: "" },
+  chown: { content: "" },
+  chgrp: { content: "" },
+  tar: { content: "" },
+  gzip: { content: "" },
+  gunzip: { content: "" },
+  zip: { content: "" },
+  unzip: { content: "" },
+  wget: { content: "" },
+  curl: { content: "" },
+  ssh: { content: "" },
+  scp: { content: "" },
+  rsync: { content: "" },
+  ping: { content: "" },
+  netstat: { content: "" },
+  ss: { content: "" },
+  iptables: { content: "" },
+  systemctl: { content: "" },
+  service: { content: "" },
+  crontab: { content: "" },
+  vi: { content: "" },
+  vim: { content: "" },
+  nano: { content: "" },
+  emacs: { content: "" },
+  less: { content: "" },
+  more: { content: "" },
+  head: { content: "" },
+  tail: { content: "" },
+  sort: { content: "" },
+  uniq: { content: "" },
+  wc: { content: "" },
+  tr: { content: "" },
+  cut: { content: "" },
+  paste: { content: "" },
+  join: { content: "" },
+  split: { content: "" },
+  tee: { content: "" },
+  xargs: { content: "" },
+  date: { content: "" },
+  cal: { content: "" },
+  uptime: { content: "" },
+  w: { content: "" },
+  who: { content: "" },
+  last: { content: "" },
+  history: { content: "" },
+  alias: { content: "" },
+  jobs: { content: "" },
+  bg: { content: "" },
+  fg: { content: "" },
+  nohup: { content: "" },
+  screen: { content: "" },
+  tmux: { content: "" },
+};
+
+const userFiles = {
+  bashrc_user: {
+    content:
+      "# ~/.bashrc: executed by bash(1) for non-login shells.\n\n# If not running interactively, don't do anything\ncase $- in\n    *i*) ;;\n      *) return;;\nesac\n\n# Custom aliases\nalias ll='ls -alF'\nalias la='ls -A'\nalias l='ls -CF'\nalias ..='cd ..'\nalias ...='cd ../..'\nalias grep='grep --color=auto'\n\n# Custom prompt\nexport PS1='\\u@\\h:\\w\\$ '\n\n# History settings\nexport HISTSIZE=10000\nexport HISTFILESIZE=20000\nexport HISTCONTROL=ignoredups:erasedups\n\n# Add ~/bin to PATH if it exists\nif [ -d \"$HOME/bin\" ] ; then\n    PATH=\"$HOME/bin:$PATH\"\nfi",
+  },
+  bash_profile: {
+    content:
+      '# ~/.bash_profile: executed by bash(1) for login shells.\n\n# include .bashrc if it exists\nif [ -f ~/.bashrc ]; then\n    . ~/.bashrc\nfi\n\n# set PATH so it includes user\'s private bin if it exists\nif [ -d "$HOME/bin" ] ; then\n    PATH="$HOME/bin:$PATH"\nfi',
+  },
+  vimrc: {
+    content:
+      '" ~/.vimrc - Vim configuration\nset number\nset tabstop=4\nset shiftwidth=4\nset expandtab\nset autoindent\nset smartindent\nset hlsearch\nset incsearch\nset ignorecase\nset smartcase\nsyntax on\nfiletype plugin indent on\ncolorscheme default',
+  },
+  ssh_config: {
+    content:
+      "# ~/.ssh/config\nHost *\n    ServerAliveInterval 60\n    ServerAliveCountMax 3\n    HashKnownHosts yes\n    VisualHostKey yes",
+  },
+};
+
+const _0x55851c = {
+  "/": {},
+
+  "/home": {},
+  "/home/murphy": {},
+  "/home/murphy/experience.txt": _0x174321,
+  "/home/murphy/about.txt": _0xbc4b5c,
+  "/home/murphy/personal.txt": _0x8e3c9c,
+  "/home/murphy/certifications.txt": certs,
+  "/home/murphy/.bashrc": userFiles.bashrc_user,
+  "/home/murphy/.bash_profile": userFiles.bash_profile,
+  "/home/murphy/.vimrc": userFiles.vimrc,
+  "/home/murphy/.ssh": {},
+  "/home/murphy/.ssh/config": userFiles.ssh_config,
+  "/home/murphy/Documents": {},
+  "/home/murphy/Downloads": {},
+  "/home/murphy/Desktop": {},
+  "/home/murphy/Pictures": {},
+  "/home/murphy/Videos": {},
+  "/home/murphy/Music": {},
+
+  "/home/miles": {},
+  "/home/miles/passwords.txt": _0x4a9d74,
+  "/home/milesmccray": {},
+  "/home/miracle": {},
+  "/home/supahclean": {},
+  "/home/catofduty": {},
+  "/home/treywheeler123": {},
+  "/home/ninepuppy": {},
+  "/home/psychwho": {},
+  "/home/quegg": {},
+  "/home/quegg/topol.top": _0x37ae68,
+  "/home/kaellenn": {},
+
+  "/home/david": {},
+  "/home/david/link": _0x2b597a,
+
+  "/home/andrew": {},
+  "/home/andrew/is_even.ml": _0x318499,
+  "/home/andrew/isEven.java": _0x25f2bc,
+
+  // Root home directory
+  "/root": {},
+  "/root/.bashrc": userFiles.bashrc_user,
+  "/root/.bash_profile": userFiles.bash_profile,
+  "/root/.vimrc": userFiles.vimrc,
+
+  // System directories
+  "/bin": {},
+  "/bin/bash": binaryFiles.bash,
+  "/bin/sh": binaryFiles.sh,
+  "/bin/cp": binaryFiles.cp,
+  "/bin/mv": binaryFiles.mv,
+  "/bin/rm": binaryFiles.rm,
+  "/bin/ls": binaryFiles.ls,
+  "/bin/cat": binaryFiles.cat,
+  "/bin/grep": binaryFiles.grep,
+  "/bin/ps": binaryFiles.ps,
+  "/bin/kill": binaryFiles.kill,
+  "/bin/mount": binaryFiles.mount,
+  "/bin/umount": binaryFiles.umount,
+  "/bin/df": binaryFiles.df,
+  "/bin/su": binaryFiles.su,
+  "/bin/chmod": binaryFiles.chmod,
+  "/bin/chown": binaryFiles.chown,
+  "/bin/tar": binaryFiles.tar,
+  "/bin/gzip": binaryFiles.gzip,
+  "/bin/gunzip": binaryFiles.gunzip,
+  "/bin/ping": binaryFiles.ping,
+  "/bin/date": binaryFiles.date,
+  "/bin/uname": binaryFiles.uname,
+  "/bin/echo": { content: "" },
+  "/bin/clear": { content: "" },
+  "/bin/head": { content: "" },
+  "/bin/tail": { content: "" },
+  "/bin/touch": { content: "" },
+  "/bin/mkdir": { content: "" },
+  "/bin/rmdir": { content: "" },
+  "/bin/whoami": { content: "" },
+  "/bin/printenv": { content: "" },
+  "/bin/history": { content: "" },
+
+  "/usr": {},
+  "/usr/bin": {},
+  "/usr/bin/awk": binaryFiles.awk,
+  "/usr/bin/sed": binaryFiles.sed,
+  "/usr/bin/find": binaryFiles.find,
+  "/usr/bin/which": binaryFiles.which,
+  "/usr/bin/whereis": binaryFiles.whereis,
+  "/usr/bin/top": binaryFiles.top,
+  "/usr/bin/killall": binaryFiles.killall,
+  "/usr/bin/du": binaryFiles.du,
+  "/usr/bin/free": binaryFiles.free,
+  "/usr/bin/id": binaryFiles.id,
+  "/usr/bin/sudo": binaryFiles.sudo,
+  "/usr/bin/passwd": binaryFiles.passwd,
+  "/usr/bin/chgrp": binaryFiles.chgrp,
+  "/usr/bin/zip": binaryFiles.zip,
+  "/usr/bin/unzip": binaryFiles.unzip,
+  "/usr/bin/wget": binaryFiles.wget,
+  "/usr/bin/curl": binaryFiles.curl,
+  "/usr/bin/ssh": binaryFiles.ssh,
+  "/usr/bin/scp": binaryFiles.scp,
+  "/usr/bin/rsync": binaryFiles.rsync,
+  "/usr/bin/netstat": binaryFiles.netstat,
+  "/usr/bin/ss": binaryFiles.ss,
+  "/usr/bin/vi": binaryFiles.vi,
+  "/usr/bin/vim": binaryFiles.vim,
+  "/usr/bin/nano": binaryFiles.nano,
+  "/usr/bin/emacs": binaryFiles.emacs,
+  "/usr/bin/less": binaryFiles.less,
+  "/usr/bin/more": binaryFiles.more,
+  "/usr/bin/sort": binaryFiles.sort,
+  "/usr/bin/uniq": binaryFiles.uniq,
+  "/usr/bin/wc": binaryFiles.wc,
+  "/usr/bin/tr": binaryFiles.tr,
+  "/usr/bin/cut": binaryFiles.cut,
+  "/usr/bin/paste": binaryFiles.paste,
+  "/usr/bin/join": binaryFiles.join,
+  "/usr/bin/split": binaryFiles.split,
+  "/usr/bin/tee": binaryFiles.tee,
+  "/usr/bin/xargs": binaryFiles.xargs,
+  "/usr/bin/cal": binaryFiles.cal,
+  "/usr/bin/uptime": binaryFiles.uptime,
+  "/usr/bin/w": binaryFiles.w,
+  "/usr/bin/who": binaryFiles.who,
+  "/usr/bin/last": binaryFiles.last,
+  "/usr/bin/alias": binaryFiles.alias,
+  "/usr/bin/jobs": binaryFiles.jobs,
+  "/usr/bin/bg": binaryFiles.bg,
+  "/usr/bin/fg": binaryFiles.fg,
+  "/usr/bin/nohup": binaryFiles.nohup,
+  "/usr/bin/screen": binaryFiles.screen,
+  "/usr/bin/tmux": binaryFiles.tmux,
+
+  "/usr/sbin": {},
+  "/usr/sbin/iptables": binaryFiles.iptables,
+  "/usr/sbin/systemctl": binaryFiles.systemctl,
+  "/usr/sbin/service": binaryFiles.service,
+  "/usr/sbin/crontab": binaryFiles.crontab,
+
+  "/usr/lib": {},
+  "/usr/lib/systemd": {},
+  "/usr/lib/systemd/system": {},
+
+  "/usr/share": {},
+  "/usr/share/man": {},
+  "/usr/share/doc": {},
+  "/usr/share/info": {},
+
+  "/usr/local": {},
+  "/usr/local/bin": {},
+  "/usr/local/sbin": {},
+  "/usr/local/lib": {},
+  "/usr/local/share": {},
+
+  "/sbin": {},
+  "/sbin/init": { content: "" },
+  "/sbin/halt": { content: "" },
+  "/sbin/reboot": { content: "" },
+  "/sbin/shutdown": { content: "" },
+  "/sbin/fsck": { content: "" },
+  "/sbin/mkfs": { content: "" },
+  "/sbin/fdisk": { content: "" },
+  "/sbin/ifconfig": { content: "" },
+  "/sbin/route": { content: "" },
+
+  "/etc": {},
+  "/etc/passwd": _0x1cf51b,
+  "/etc/hostname": _0x5d15b6,
+  "/etc/hosts": _0x5b3a79,
+  "/etc/fstab": systemFiles.fstab,
+  "/etc/group": systemFiles.group,
+  "/etc/shadow": systemFiles.shadow,
+  "/etc/resolv.conf": systemFiles.resolv,
+  "/etc/issue": systemFiles.issue,
+  "/etc/lsb-release": systemFiles.release,
+  "/etc/timezone": systemFiles.timezone,
+  "/etc/locale.conf": systemFiles.locale,
+  "/etc/profile": systemFiles.profile,
+  "/etc/bash.bashrc": systemFiles.bashrc,
+  "/etc/crontab": {
+    content:
+      "# /etc/crontab: system-wide crontab\n# Unlike any other crontab you don't have to run the `crontab'\n# command to install the new version when you edit this file\n# and files in /etc/cron.d. These files also have username fields,\n# that none of the other crontabs do.\n\nSHELL=/bin/sh\nPATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin\n\n# m h dom mon dow user  command\n17 *    * * *   root    cd / && run-parts --report /etc/cron.hourly\n25 6    * * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )\n47 6    * * 7   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly )\n52 6    1 * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )",
+  },
+  "/etc/sudoers": {
+    content:
+      '#\n# This file MUST be edited with the \'visudo\' command as root.\n#\n# Please consider adding local content in /etc/sudoers.d/ instead of\n# directly modifying this file.\n#\nDefaults        env_reset\nDefaults        mail_badpass\nDefaults        secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"\n\n# Host alias specification\n\n# User alias specification\n\n# Cmnd alias specification\n\n# User privilege specification\nroot    ALL=(ALL:ALL) ALL\n\n# Members of the admin group may gain root privileges\n%admin ALL=(ALL) ALL\n\n# Allow members of group sudo to execute any command\n%sudo   ALL=(ALL:ALL) ALL\n\n# See sudoers(5) for more information on "#include" directives:\n\n#includedir /etc/sudoers.d',
+  },
+  "/etc/ssh": {},
+  "/etc/ssh/sshd_config": {
+    content:
+      "# Package generated configuration file\n# See the sshd_config(5) manpage for details\n\n# What ports, IPs and protocols we listen for\nPort 22\n# Use these options to restrict which interfaces/protocols sshd will bind to\n#ListenAddress ::\n#ListenAddress 0.0.0.0\nProtocol 2\n# HostKeys for protocol version 2\nHostKey /etc/ssh/ssh_host_rsa_key\nHostKey /etc/ssh/ssh_host_dsa_key\nHostKey /etc/ssh/ssh_host_ecdsa_key\nHostKey /etc/ssh/ssh_host_ed25519_key\n#Privilege Separation is turned on for security\nUsePrivilegeSeparation yes\n\n# Lifetime and size of ephemeral version 1 server key\nKeyRegenerationInterval 3600\nServerKeyBits 1024\n\n# Logging\nSyslogFacility AUTH\nLogLevel INFO\n\n# Authentication:\nLoginGraceTime 120\nPermitRootLogin prohibit-password\nStrictModes yes\n\nRSAAuthentication yes\nPubkeyAuthentication yes\n#AuthorizedKeysFile     %h/.ssh/authorized_keys\n\n# Don't read the user's ~/.rhosts and ~/.shosts files\nIgnoreRhosts yes\n# For this to work you will also need host keys in /etc/ssh_known_hosts\nRhostsRSAAuthentication no\n# similar for protocol version 2\nHostbasedAuthentication no\n# Uncomment if you don't trust ~/.ssh/known_hosts for RhostsRSAAuthentication\n#IgnoreUserKnownHosts yes\n\n# To enable empty passwords, change to yes (NOT RECOMMENDED)\nPermitEmptyPasswords no\n\n# Change to yes to enable challenge-response passwords (beware issues with\n# some PAM modules and threads)\nChallengeResponseAuthentication no\n\n# Change to no to disable tunnelled clear text passwords\n#PasswordAuthentication yes\n\n# Kerberos options\n#KerberosAuthentication no\n#KerberosGetAFSToken no\n#KerberosOrLocalPasswd yes\n#KerberosTicketCleanup yes\n\n# GSSAPI options\n#GSSAPIAuthentication no\n#GSSAPICleanupCredentials yes\n\nX11Forwarding yes\nX11DisplayOffset 10\nPrintMotd no\nPrintLastLog yes\nTCPKeepAlive yes\n#UseLogin no\n\n#MaxStartups 10:30:60\n#Banner /etc/issue.net\n\n# Allow client to pass locale environment variables\nAcceptEnv LANG LC_*\n\nSubsystem sftp /usr/lib/openssh/sftp-server\n\n# Set this to 'yes' to enable PAM authentication, account processing,\n# and session processing. If this is enabled, PAM authentication will\n# be allowed through the ChallengeResponseAuthentication and\n# PasswordAuthentication.  Depending on your PAM configuration,\n# PAM authentication via ChallengeResponseAuthentication may bypass\n# the setting of \"PermitRootLogin without-password\".\n# If you just want the PAM account and session checks to run without\n# PAM authentication, then enable this but set PasswordAuthentication\n# and ChallengeResponseAuthentication to 'no'.\nUsePAM yes",
+  },
+  "/etc/systemd": {},
+  "/etc/systemd/system": {},
+  "/etc/NetworkManager": {},
+  "/etc/NetworkManager/NetworkManager.conf": {
+    content:
+      "[main]\nplugins=ifupdown,keyfile\n\n[ifupdown]\nmanaged=false\n\n[device]\nwifi.scan-rand-mac-address=no",
+  },
+  "/etc/apt": {},
+  "/etc/apt/sources.list": {
+    content:
+      "# See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to\n# newer versions of the distribution.\ndeb http://archive.ubuntu.com/ubuntu/ jammy main restricted\n# deb-src http://archive.ubuntu.com/ubuntu/ jammy main restricted\n\n## Major bug fix updates produced after the final release of the\n## distribution.\ndeb http://archive.ubuntu.com/ubuntu/ jammy-updates main restricted\n# deb-src http://archive.ubuntu.com/ubuntu/ jammy-updates main restricted\n\n## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu\n## team. Also, please note that software in universe WILL NOT receive any\n## review or updates from the Ubuntu security team.\ndeb http://archive.ubuntu.com/ubuntu/ jammy universe\n# deb-src http://archive.ubuntu.com/ubuntu/ jammy universe\ndeb http://archive.ubuntu.com/ubuntu/ jammy-updates universe\n# deb-src http://archive.ubuntu.com/ubuntu/ jammy-updates universe\n\n## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu\n## team, and may not be under a free licence. Please satisfy yourself as to\n## your rights to use the software. Also, please note that software in\n## multiverse WILL NOT receive any review or updates from the Ubuntu\n## security team.\ndeb http://archive.ubuntu.com/ubuntu/ jammy multiverse\n# deb-src http://archive.ubuntu.com/ubuntu/ jammy multiverse\ndeb http://archive.ubuntu.com/ubuntu/ jammy-updates multiverse\n# deb-src http://archive.ubuntu.com/ubuntu/ jammy-updates multiverse\n\n## N.B. software from this repository may not have been tested as\n## extensively as that contained in the main release, although it includes\n## newer versions of some applications which may provide useful features.\n## Also, please note that software in backports WILL NOT receive any review\n## or updates from the Ubuntu security team.\ndeb http://archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse\n# deb-src http://archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse\n\ndeb http://security.ubuntu.com/ubuntu/ jammy-security main restricted\n# deb-src http://security.ubuntu.com/ubuntu/ jammy-security main restricted\ndeb http://security.ubuntu.com/ubuntu/ jammy-security universe\n# deb-src http://security.ubuntu.com/ubuntu/ jammy-security universe\ndeb http://security.ubuntu.com/ubuntu/ jammy-security multiverse\n# deb-src http://security.ubuntu.com/ubuntu/ jammy-security multiverse",
+  },
+
+  "/proc": {},
+  "/proc/cpuinfo": systemFiles.cpuinfo,
+  "/proc/meminfo": systemFiles.meminfo,
+  "/proc/version": systemFiles.version,
+  "/proc/uptime": systemFiles.uptime,
+  "/proc/loadavg": systemFiles.loadavg,
+  "/proc/mounts": {
+    content:
+      "sysfs /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0\nproc /proc proc rw,nosuid,nodev,noexec,relatime 0 0\nudev /dev devtmpfs rw,nosuid,relatime,size=8120244k,nr_inodes=2030061,mode=755 0 0\ndevpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0\ntmpfs /run tmpfs rw,nosuid,noexec,relatime,size=1627252k,mode=755 0 0\n/dev/sda1 / ext4 rw,relatime,errors=remount-ro 0 0\nsecurityfs /sys/kernel/security securityfs rw,nosuid,nodev,noexec,relatime 0 0\ntmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0\ntmpfs /run/lock tmpfs rw,nosuid,nodev,noexec,relatime,size=5120k 0 0\ntmpfs /sys/fs/cgroup tmpfs ro,nosuid,nodev,noexec,mode=755 0 0",
+  },
+  "/proc/filesystems": {
+    content:
+      "nodev\tsysfs\nnodev\ttmpfs\nnodev\tbdev\nnodev\tproc\nnodev\tcgroup\nnodev\tcgroup2\nnodev\tcpuset\nnodev\tdevtmpfs\nnodev\tconfigfs\nnodev\tdebugfs\nnodev\tsecurityfs\nnodev\tsockfs\nnodev\tbpf\nnodev\tpipefs\nnodev\tramfs\nnodev\thugetlbfs\nnodev\tdevpts\n\text3\n\text2\n\text4\nnodev\tautofs\n\tfuseblk\nnodev\tfuse\nnodev\tfusectl\nnodev\tmqueue\nnodev\tpstore\nnodev\tbinfmt_misc",
+  },
+  "/proc/devices": {
+    content:
+      "Character devices:\n  1 mem\n  4 /dev/vc/0\n  4 tty\n  4 ttyS\n  5 /dev/tty\n  5 /dev/console\n  5 /dev/ptmx\n  7 vcs\n 10 misc\n 13 input\n 21 sg\n 29 fb\n116 alsa\n128 ptm\n136 pts\n180 usb\n189 usb_device\n254 rtc\n\nBlock devices:\n  7 loop\n  8 sd\n  9 md\n 11 sr\n 65 sd\n 66 sd\n 67 sd\n 68 sd\n 69 sd\n 70 sd\n 71 sd\n128 sd\n129 sd\n130 sd\n131 sd\n132 sd\n133 sd\n134 sd\n135 sd\n253 device-mapper\n259 blkext",
+  },
+
+  "/sys": {},
+  "/sys/class": {},
+  "/sys/class/net": {},
+  "/sys/devices": {},
+  "/sys/kernel": {},
+  "/sys/module": {},
+  "/sys/power": {},
+  "/sys/power/state": { content: "freeze mem disk" },
+
+  "/dev": {},
+  "/dev/null": { content: "" },
+  "/dev/zero": { content: "" },
+  "/dev/random": { content: "" },
+  "/dev/urandom": { content: "" },
+  "/dev/stdin": { content: "" },
+  "/dev/stdout": { content: "" },
+  "/dev/stderr": { content: "" },
+  "/dev/tty": { content: "" },
+  "/dev/console": { content: "" },
+  "/dev/sda": { content: "" },
+  "/dev/sda1": { content: "" },
+  "/dev/sda2": { content: "" },
+  "/dev/loop0": { content: "" },
+  "/dev/loop1": { content: "" },
+
+  "/tmp": {},
+  "/tmp/.X11-unix": {},
+
+  "/var": {},
+  "/var/log": {},
+  "/var/log/messages": systemFiles.messages,
+  "/var/log/syslog": systemFiles.syslog,
+  "/var/log/auth.log": systemFiles.auth,
+  "/var/log/kern.log": systemFiles.kern,
+  "/var/log/dmesg": {
+    content:
+      "[    0.000000] Linux version 5.15.0-91-generic (buildd@lcy02-amd64-089) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #101-Ubuntu SMP Tue Nov 14 13:30:08 UTC 2023\n[    0.000000] Command line: BOOT_IMAGE=/vmlinuz-5.15.0-91-generic root=UUID=12345678-1234-1234-1234-123456789abc ro quiet splash\n[    0.000000] KERNEL supported cpus:\n[    0.000000]   Intel GenuineIntel\n[    0.000000]   AMD AuthenticAMD\n[    0.000000]   Hygon HygonGenuine\n[    0.000000]   Centaur CentaurHauls\n[    0.000000]   zhaoxin   Shanghai",
+  },
+  "/var/log/dpkg.log": {
+    content:
+      "2024-01-15 10:30:15 startup archives unpack\n2024-01-15 10:30:15 install base-files:amd64 <none> 12.1ubuntu2\n2024-01-15 10:30:15 status half-installed base-files:amd64 12.1ubuntu2\n2024-01-15 10:30:15 status installed base-files:amd64 12.1ubuntu2\n2024-01-15 10:30:16 install bash:amd64 <none> 5.1-6ubuntu1\n2024-01-15 10:30:16 status half-installed bash:amd64 5.1-6ubuntu1\n2024-01-15 10:30:16 status installed bash:amd64 5.1-6ubuntu1",
+  },
+  "/var/log/apt": {},
+  "/var/log/apt/history.log": {
+    content:
+      "Start-Date: 2024-01-15  10:30:15\nCommandline: apt install vim\nInstall: vim:amd64 (2:8.2.3458-2ubuntu2.2, automatic), vim-runtime:amd64 (2:8.2.3458-2ubuntu2.2, automatic)\nEnd-Date: 2024-01-15  10:30:18\n\nStart-Date: 2024-01-15  11:45:22\nCommandline: apt update\nEnd-Date: 2024-01-15  11:45:24\n\nStart-Date: 2024-01-15  11:45:30\nCommandline: apt upgrade\nUpgrade: libc6:amd64 (2.35-0ubuntu3.4, 2.35-0ubuntu3.5), libc6-dev:amd64 (2.35-0ubuntu3.4, 2.35-0ubuntu3.5)\nEnd-Date: 2024-01-15  11:45:35",
+  },
+  "/var/mail": {},
+  "/var/mail/murphy": { content: "" },
+  "/var/mail/root": { content: "" },
+  "/var/cache": {},
+  "/var/cache/apt": {},
+  "/var/lib": {},
+  "/var/lib/dpkg": {},
+  "/var/lib/dpkg/status": {
+    content:
+      "Package: adduser\nStatus: install ok installed\nPriority: important\nSection: admin\nInstalled-Size: 849\nMaintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>\nArchitecture: all\nVersion: 3.118ubuntu2\nDepends: passwd, debconf (>= 0.5) | debconf-2.0\nSuggests: liblocale-gettext-perl, perl, ecryptfs-utils (>= 67-1)\nConffiles:\n /etc/adduser.conf 0e85ab9218dc6a5d1b3f8b8c7b87e5ba\n /etc/deluser.conf 4e5a3d4e45067e9c9df3d6bb4912a8b1\nDescription: add and remove users and groups\n This package includes the 'adduser' and 'deluser' commands for creating\n and removing users.\n .\n - 'adduser' creates new users and groups and adds existing users to\n   existing groups;\n - 'deluser' removes users and groups and removes users from a given\n   group.\n .\n Adding users with 'adduser' is much easier than adding them manually.\n Adduser will choose appropriate UID and GID values, create a home\n directory, copy skeletal user configuration, and automate setting\n initial values for the user's password, real name and so on.\n .\n Deluser can back up and remove users' home directories and mail spool or\n all the files they own on the system.\n .\n A custom script can be executed after each of the commands.\nOriginal-Maintainer: Debian Adduser Developers <adduser@packages.debian.org>",
+  },
+  "/var/run": {},
+  "/var/spool": {},
+  "/var/spool/cron": {},
+  "/var/spool/cron/crontabs": {},
+  "/var/spool/mail": {},
+
+  "/var/www": {},
+  "/var/www/html": {},
+  "/var/www/html/index.html": _0xd4d1f0,
+  "/var/www/html/sasha": {},
+  "/var/www/html/sasha/database": {},
+  "/var/www/html/sasha/database/budcoins.html": _0x4cc47a,
+
+  "/lib": {},
+  "/lib/systemd": {},
+  "/lib/systemd/system": {},
+  "/lib/systemd/systemd": { content: "" },
+  "/lib/x86_64-linux-gnu": {},
+  "/lib/x86_64-linux-gnu/libc.so.6": { content: "" },
+  "/lib/x86_64-linux-gnu/libdl.so.2": { content: "" },
+  "/lib/x86_64-linux-gnu/libpthread.so.0": { content: "" },
+  "/lib/x86_64-linux-gnu/libm.so.6": { content: "" },
+  "/lib/x86_64-linux-gnu/librt.so.1": { content: "" },
+
+  "/lib64": {},
+  "/lib64/ld-linux-x86-64.so.2": { content: "" },
+
+  // /opt for optional software
+  "/opt": {},
+
+  // /srv for service data
+  "/srv": {},
+  "/srv/ftp": {},
+  "/srv/http": {},
+
+  // /media and /mnt for mounting
+  "/media": {},
+  "/media/cdrom": {},
+  "/media/usb": {},
+  "/mnt": {},
+  "/mnt/cdrom": {},
+  "/mnt/usb": {},
+
+  // /boot boot files
+  "/boot": {},
+  "/boot/vmlinuz-5.15.0-91-generic": { content: "" },
+  "/boot/initrd.img-5.15.0-91-generic": { content: "" },
+  "/boot/grub": {},
+
+  // Additional networking files
+  "/etc/network": {},
+  "/etc/network/interfaces": {
+    content:
+      "# This file describes the network interfaces available on your system\n# and how to activate them. For more information, see interfaces(5).\n\nsource /etc/network/interfaces.d/*\n\n# The loopback network interface\nauto lo\niface lo inet loopback\n\n# The primary network interface\nauto eth0\niface eth0 inet dhcp",
+  },
+  "/etc/network/interfaces.d": {},
+
+  // Security and firewall
+  "/etc/ufw": {},
+  "/etc/ufw/ufw.conf": {
+    content:
+      "# /etc/ufw/ufw.conf\n#\n\n# Set to yes to start on boot. If setting this remotely, be sure to add a rule\n# to allow your remote connection before starting ufw. Eg: 'ufw allow 22/tcp'\nENABLED=no\n\n# Please use the 'ufw' command to set the loglevel. Eg: 'ufw logging medium'.\n# See 'man ufw' for details.\nLOGLEVEL=low",
+  },
+  "/etc/iptables": {},
+
+  // X11 and display
+  "/etc/X11": {},
+  "/etc/X11/xorg.conf": { content: "" },
+
+  // Font and locale directories
+  "/usr/share/fonts": {},
+  "/usr/share/locale": {},
+  "/usr/share/zoneinfo": {},
+  "/usr/share/zoneinfo/America": {},
+  "/usr/share/zoneinfo/America/New_York": { content: "" },
+  "/usr/share/zoneinfo/UTC": { content: "" },
+
+  // Kernel modules
+  "/lib/modules": {},
+  "/lib/modules/5.15.0-91-generic": {},
+  "/lib/modules/5.15.0-91-generic/kernel": {},
+
+  // Package management
+  "/var/lib/apt": {},
+  "/var/lib/apt/lists": {},
+  "/var/cache/apt/archives": {},
+
+  // User skeleton directory
+  "/etc/skel": {},
+  "/etc/skel/.bashrc": userFiles.bashrc_user,
+  "/etc/skel/.bash_logout": {
+    content:
+      '# ~/.bash_logout: executed by bash(1) when login shell exits.\n\n# when leaving the console clear the screen to increase privacy\n\nif [ "$SHLVL" = 1 ]; then\n    [ -x /usr/bin/clear_console ] && /usr/bin/clear_console -q\nfi',
+  },
+  "/etc/skel/.profile": {
+    content:
+      '# ~/.profile: executed by the command interpreter for login shells.\n# This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login\n# exists.\n# see /usr/share/doc/bash/examples/startup-files for examples.\n# the files are located in the bash-doc package.\n\n# the default umask is set in /etc/profile; for setting the umask\n# for ssh logins, install and configure the libpam-umask package.\n#umask 022\n\n# if running bash\nif [ -n "$BASH_VERSION" ]; then\n    # include .bashrc if it exists\n    if [ -f "$HOME/.bashrc" ]; then\n\t. "$HOME/.bashrc"\n    fi\nfi\n\n# set PATH so it includes user\'s private bin if it exists\nif [ -d "$HOME/bin" ] ; then\n    PATH="$HOME/bin:$PATH"\nfi\n\n# set PATH so it includes user\'s private bin if it exists\nif [ -d "$HOME/.local/bin" ] ; then\n    PATH="$HOME/.local/bin:$PATH"\nfi',
+  },
+
+  // Additional system configuration files
+  "/etc/default": {},
+  "/etc/default/grub": {
+    content:
+      '# If you change this file, run \'update-grub\' afterwards to update\n# /boot/grub/grub.cfg.\n# For full documentation of the options in this file, see:\n#   info -f grub -n \'Simple configuration\'\n\nGRUB_DEFAULT=0\nGRUB_TIMEOUT_STYLE=hidden\nGRUB_TIMEOUT=0\nGRUB_DISTRIBUTOR=`lsb_release -i -s 2> /dev/null || echo Debian`\nGRUB_CMDLINE_LINUX_DEFAULT="quiet splash"\nGRUB_CMDLINE_LINUX=""\n\n# Uncomment to enable BadRAM filtering, modify to suit your needs\n# This works with Linux (no patch required) and with any kernel that obtains\n# the memory map information from GRUB (GNU Mach, kernel of FreeBSD ...)\n#GRUB_BADRAM="0x01234567,0xfefefefe,0x89abcdef,0xefefefef"\n\n# Uncomment to disable graphical terminal (grub-pc only)\n#GRUB_TERMINAL=console\n\n# The resolution used on graphical terminal\n# note that you can use only modes which your graphic card supports via VBE\n# you can see them in real GRUB with the command `vbeinfo\'\n#GRUB_GFXMODE=640x480\n\n# Uncomment if you don\'t want GRUB to pass "root=UUID=xxx" parameter to Linux\n#GRUB_DISABLE_LINUX_UUID=true\n\n# Uncomment to disable generation of recovery mode menu entries\n#GRUB_DISABLE_RECOVERY="true"\n\n# Uncomment to get a beep at grub start\n#GRUB_INIT_TUNE="480 440 1"',
+  },
+  "/etc/environment": {
+    content:
+      'PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"',
+  },
+
+  // Service and daemon directories
+  "/etc/init.d": {},
+
+  // Additional /var directories
+  "/var/backups": {},
+  "/var/crash": {},
+  "/var/lock": {},
+  "/var/opt": {},
+  "/var/snap": {},
+  "/var/tmp": {},
+
+  // Additional user directories for existing users
+  "/home/murphy/bin": {},
+  "/home/murphy/.local": {},
+  "/home/murphy/.local/bin": {},
+  "/home/murphy/.local/share": {},
+  "/home/murphy/.config": {},
+  "/home/murphy/.cache": {},
+  "/home/murphy/.bash_history": {
+    content:
+      'ls -la\ncd /etc\ncat /etc/passwd\nsudo cat /etc/shadow\nwhoami\nid\nps aux\ntop\nnetstat -tulpn\nss -tulpn\nhistory\nnmap -sS 192.168.1.1\nsudo nmap -sS 10.10.10.0/24\ncd /home/murphy\nls -la\ncat experience.txt\ncat about.txt\ncat personal.txt\ncat certifications.txt\nvim .bashrc\nsource .bashrc\ncd /var/log\nsudo tail -f auth.log\nsudo tail -f syslog\ncd /tmp\nmkdir test\nrmdir test\nfind /home -name "*.txt"\ngrep -r "OSCP" /home/murphy/\nchmod 600 ~/.ssh/config\nssh-keygen -t rsa -b 4096\ncd ~/.ssh\nls -la\ndf -h\nfree -h\nlscpu\nlsblk\nmount | grep -v tmpfs\nsudo systemctl status ssh\nsudo systemctl enable ssh\nsudo systemctl start ssh\niptables -L\nsudo iptables -L\ncrontab -l\nsudo crontab -l\nw\nwho\nlast\nuptime\ndate\nuname -a\nlsb_release -a\nenv\necho $PATH\nwhich python3\nwhich nmap\ncd /var/www/html\nls -la\ncat index.html\ncd sasha/database\ncat budcoins.html\ncd /etc\nls -la\ncat hosts\ngrep "htb" hosts\ncd /home\nls -la\ncd miles\nls -la\ncd ../david\nls -la\ncat link\ncd ../andrew\nls -la\ncat is_even.ml\ncat isEven.java\ncd ../quegg\nls -la\ncat topol.top\nhistory | grep sudo\nhistory | grep nmap\nclear',
+  },
+
+  // Additional home directories with basic structure
+  "/home/milesmccray/.bashrc": userFiles.bashrc_user,
+  "/home/milesmccray/.bash_history": {
+    content: 'ls\ncd ~\nwhoami\necho "Hello World"\ndate\nclear\nhistory',
+  },
+  "/home/miracle/.bashrc": userFiles.bashrc_user,
+  "/home/supahclean/.bashrc": userFiles.bashrc_user,
+  "/home/catofduty/.bashrc": userFiles.bashrc_user,
+  "/home/treywheeler123/.bashrc": userFiles.bashrc_user,
+  "/home/ninepuppy/.zshrc": {
+    content:
+      "# ~/.zshrc - Zsh configuration\n\n# History settings\nHISTSIZE=10000\nSAVEHIST=10000\nHISTFILE=~/.zsh_history\n\n# Options\nsetopt HIST_VERIFY\nsetopt SHARE_HISTORY\nsetopt APPEND_HISTORY\nsetopt INC_APPEND_HISTORY\nsetopt HIST_IGNORE_DUPS\nsetopt HIST_IGNORE_ALL_DUPS\nsetopt HIST_IGNORE_SPACE\nsetopt HIST_SAVE_NO_DUPS\nsetopt HIST_REDUCE_BLANKS\n\n# Completion\nautoload -Uz compinit\ncompinit\n\n# Prompt\nPROMPT='%n@%m:%~%# '\n\n# Aliases\nalias ll='ls -alF'\nalias la='ls -A'\nalias l='ls -CF'\nalias grep='grep --color=auto'",
+  },
+  "/home/psychwho/.bashrc": userFiles.bashrc_user,
+  "/home/kaellenn/.bashrc": userFiles.bashrc_user,
+
+  // Additional system log files
+  "/var/log/alternatives.log": {
+    content:
+      "update-alternatives 2024-01-15 10:30:16: run with --install /usr/bin/editor editor /bin/nano 40 --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/nano.1.gz\nupdate-alternatives 2024-01-15 10:30:16: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz\nupdate-alternatives 2024-01-15 10:30:17: run with --install /usr/bin/vi vi /usr/bin/vim.basic 30 --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz --slave /usr/bin/view view /usr/bin/vim.basic --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz --slave /usr/bin/ex ex /usr/bin/vim.basic --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz",
+  },
+  "/var/log/bootstrap.log": {
+    content:
+      "2024-01-15 10:30:15 Selecting previously unselected package base-files.\n2024-01-15 10:30:15 (Reading database ... 0 files and directories currently installed.)\n2024-01-15 10:30:15 Preparing to unpack .../base-files_12.1ubuntu2_amd64.deb ...\n2024-01-15 10:30:15 Unpacking base-files (12.1ubuntu2) ...\n2024-01-15 10:30:15 Setting up base-files (12.1ubuntu2) ...\n2024-01-15 10:30:15 Installing new version of config file /etc/issue ...\n2024-01-15 10:30:15 Installing new version of config file /etc/issue.net ...\n2024-01-15 10:30:15 Installing new version of config file /etc/lsb-release ...",
+  },
+
+  // Additional device files
+  "/dev/pts": {},
+  "/dev/pts/0": { content: "" },
+  "/dev/pts/1": { content: "" },
+  "/dev/shm": {},
+
+  // Additional proc entries
+  "/proc/cmdline": {
+    content:
+      "BOOT_IMAGE=/vmlinuz-5.15.0-91-generic root=UUID=12345678-1234-1234-1234-123456789abc ro quiet splash",
+  },
+  "/proc/stat": {
+    content:
+      "cpu  123456 1234 567890 9876543 12345 0 6789 0 0 0\ncpu0 30864 308 141975 2469421 3079 0 1697 0 0 0\ncpu1 30864 308 141975 2469421 3079 0 1697 0 0 0\ncpu2 30864 308 141975 2469421 3079 0 1697 0 0 0\ncpu3 30864 308 141975 2469421 3079 0 1697 0 0 0\nintr 12345678 12 34 56 78 90 123 456 789 012 345\nctxt 123456789\nbtime 1705329015\nprocesses 12345\nprocs_running 2\nprocs_blocked 0\nsoftirq 1234567 123 456 789 012 345 678 901 234 567 890",
+  },
+  "/proc/interrupts": {
+    content:
+      "           CPU0       CPU1       CPU2       CPU3       \n  0:         23          0          0          0   IO-APIC    2-edge      timer\n  1:          9          0          0          0   IO-APIC    1-edge      i8042\n  8:          1          0          0          0   IO-APIC    8-edge      rtc0\n  9:          0          0          0          0   IO-APIC    9-fasteoi   acpi\n 12:        152          0          0          0   IO-APIC   12-edge      i8042\n 16:          0          0          0          0   IO-APIC   16-fasteoi   ehci_hcd:usb1\n 23:          0          0          0          0   IO-APIC   23-fasteoi   ehci_hcd:usb2",
+  },
+
+  // Snap directory (modern Ubuntu package management)
+  "/snap": {},
+  "/snap/bin": {},
+  "/snap/core": {},
+  "/snap/core/current": {},
+
+  // Additional library directories
+  "/usr/lib32": {},
+  "/usr/libx32": {},
+
+  // Additional include directories
+  "/usr/include": {},
+  "/usr/include/linux": {},
+  "/usr/include/sys": {},
+
+  // Additional source directories
+  "/usr/src": {},
+  "/usr/src/linux-headers-5.15.0-91": {},
+  "/usr/src/linux-headers-5.15.0-91-generic": {},
+};
+
+const _0x1b4b12 = FileSystem.create(_0x55851c);
+export default _0x1b4b12;

@@ -2,7 +2,6 @@
   "name": "turtleshell",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sashathomas.github.io/react-gh-pages",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
